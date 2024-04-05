@@ -305,36 +305,36 @@ def tokenize_html(content):
 def semantic_similarity(answer, html, shrink_value):
     result_array = []
     
-    # print("=" * 125)
-    # print("Evaluating similarity between the GPT answer and the HTML of the crawled page")
-    # print("=" * 125)
+    print("=" * 125)
+    print("Evaluating similarity between the GPT answer and the HTML of the crawled page")
+    print("=" * 125)
     
     crawled_page_content = html.split()
     short_answer = answer.split()
     
-    # print("=" * 125)
-    # print("1st Method: words2vec")
-    # print("=" * 125)
+    print("=" * 125)
+    print("1st Method: words2vec")
+    print("=" * 125)
     result_array.append(word2vec_semantic_similarity(short_answer, crawled_page_content, shrink_value))
     
-    # print("=" * 125)
-    # print("2nd Method: WordNet")
-    # print("=" * 125)
+    print("=" * 125)
+    print("2nd Method: WordNet")
+    print("=" * 125)
     result_array.append(wordnet_semantic_similarity(short_answer, crawled_page_content, shrink_value))
 
-    # print("=" * 125)
-    # print("3rd Method: Word Mover's Distance")
-    # print("=" * 125)
+    print("=" * 125)
+    print("3rd Method: Word Mover's Distance")
+    print("=" * 125)
     result_array.append(wmd_semantic_similarity(short_answer, crawled_page_content))
 
-    # print("=" * 125)
-    # print("4th Method: GloVe")
-    # print("=" * 125)
+    print("=" * 125)
+    print("4th Method: GloVe")
+    print("=" * 125)
     result_array.append(glove_semantic_similarity(short_answer, crawled_page_content, shrink_value))  
 
-    # print("=" * 125)
-    # print("5th Method: MSMarco")
-    # print("=" * 125)
+    print("=" * 125)
+    print("5th Method: MSMarco")
+    print("=" * 125)
     result_array.append(msmarco_semantic_similarity(short_answer, crawled_page_content))
     
     return result_array
@@ -440,54 +440,54 @@ for url in urls:
         final_results.append({"link": GPTlink, "similarities": semantic_similarity(saved_response, htmlpage, 2)})
     except TypeError:
         pass
-# if GPTdomain:
-    # # Perform a search on google of the ChatGPT reply to see if there are potential matches online
-    # print("=" * 125)
-    # print("Searching now on google to see if the GPT response leads to the matching link")
-    # print("=" * 125)
-    # params = {
-      # "engine": "google",
-      # "q": saved_response_to_google,
-      # "api_key": "be93071379f8f5f37f4506fd14981b53b8d07207ee41da9510167548e79161c5"
-    # }
+if GPTdomain:
+    # Perform a search on google of the ChatGPT reply to see if there are potential matches online
+    print("=" * 125)
+    print("Searching now on google to see if the GPT response leads to the matching link")
+    print("=" * 125)
+    params = {
+      "engine": "google",
+      "q": saved_response_to_google,
+      "api_key": "be93071379f8f5f37f4506fd14981b53b8d07207ee41da9510167548e79161c5"
+    }
 
-    # search = GoogleSearch(params)
-    # results = search.get_json()
+    search = GoogleSearch(params)
+    results = search.get_json()
 
-    # # Parse the results
-    # for result in results['organic_results']:
-        # # Split the link into domain and path. If the domain coincides with the link provided by ChatGPT and the path is similar enough, we can consider the link a match
-        # # This means that by googling the text provided by ChatGPT we obtained a matching link to the one provided by ChatGPT as its source
-        # domain, path = split_link(result['link'])
-        # GPTlink = GPTdomain + GPTpath
-        # link = domain + path
-        # if similar(GPTdomain, domain) > 0.9 and similar(GPTpath, path) > 0.5:
+    # Parse the results
+    for result in results['organic_results']:
+        # Split the link into domain and path. If the domain coincides with the link provided by ChatGPT and the path is similar enough, we can consider the link a match
+        # This means that by googling the text provided by ChatGPT we obtained a matching link to the one provided by ChatGPT as its source
+        domain, path = split_link(result['link'])
+        GPTlink = GPTdomain + GPTpath
+        link = domain + path
+        if similar(GPTdomain, domain) > 0.9 and similar(GPTpath, path) > 0.5:
+            print("=" * 125)
+            print("!!!!!!!!!!!!!!!")
+            print(f"Found a potential match!\nGPTlink = {GPTlink} vs Found link = {link}")
+            print("!!!!!!!!!!!!!!!")
+            print("=" * 125)
+        else:
+            print("=" * 125)
+            print(f"GPTlink = {GPTlink}\nFound link = {link}\nNot similar enough")
+            print("=" * 125)
+        try:
+            # For every link found (even non matches), try to obtain the HTML text
+            newhtml = check_link_contents(link)
+            # Clean the HTML from tags and tokenize it
+            newhtml = tokenize_html(newhtml)
+            # TF Thresholding
+            # newhtml = term_frequency_thresholding(newhtml, 0.02)
             # print("=" * 125)
-            # print("!!!!!!!!!!!!!!!")
-            # print(f"Found a potential match!\nGPTlink = {GPTlink} vs Found link = {link}")
-            # print("!!!!!!!!!!!!!!!")
+            # print(newhtml)
             # print("=" * 125)
-        # else:
-            # print("=" * 125)
-            # print(f"GPTlink = {GPTlink}\nFound link = {link}\nNot similar enough")
-            # print("=" * 125)
-        # try:
-            # # For every link found (even non matches), try to obtain the HTML text
-            # newhtml = check_link_contents(link)
-            # # Clean the HTML from tags and tokenize it
-            # newhtml = tokenize_html(newhtml)
-            # # TF Thresholding
-            # # newhtml = term_frequency_thresholding(newhtml, 0.02)
-            # # print("=" * 125)
-            # # print(newhtml)
-            # # print("=" * 125)
-            # # final_results.append({"link": link, "similarities": semantic_similarity(saved_response, newhtml, 2)})
-        # except TypeError:
-            # pass
-        # except ValueError:
-            # pass
-# else:
-    # print("GPT provided no valid link")
+            # final_results.append({"link": link, "similarities": semantic_similarity(saved_response, newhtml, 2)})
+        except TypeError:
+            pass
+        except ValueError:
+            pass
+else:
+    print("GPT provided no valid link")
   
 # Print the obtained results
 print("~#~" * 25)
