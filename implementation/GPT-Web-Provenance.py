@@ -481,7 +481,7 @@ if GPTdomain:
             # print("=" * 125)
             # print(newhtml)
             # print("=" * 125)
-            # final_results.append({"link": link, "similarities": semantic_similarity(saved_response, newhtml, 2)})
+            final_results.append({"link": link, "similarities": semantic_similarity(saved_response, newhtml, 2)})
         except TypeError:
             pass
         except ValueError:
