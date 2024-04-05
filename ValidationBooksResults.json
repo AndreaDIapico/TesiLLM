@@ -1,0 +1,3470 @@
+[
+  {
+    "title": "Carolina's Gone A Courting : The Brubaker Brides (Silhouette Romance)",
+    "authors": "Elizabeth August",
+    "year": 2000,
+    "correct_authors": "Carolyn Zane",
+    "correct_year": "2004",
+    "tokens": 80,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "Cory Everson's Lifebalance: The Complete Mind/Body Program for a Leaner Body, Better Health, and Self-Empowerment",
+    "authors": "Cory Everson Gary T. Homsey",
+    "year": 1996,
+    "correct_authors": "Corinna Everson",
+    "correct_year": "1998",
+    "tokens": 99,
+    "similarity": 0.5238095238095238
+  },
+  {
+    "title": "The Crucible of Creation: The Burgess Shale and the Rise of Animals",
+    "authors": "Simon Conway Morris",
+    "year": 1998,
+    "correct_authors": "Simon Conway Morris",
+    "correct_year": "1999",
+    "tokens": 78,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Journal of Patrick Seamus Flaherty : A United States Marine Corps, Khe Sanh,Vietnam ,1968 (My Name Is America)",
+    "authors": "Ellen Emerson White",
+    "year": 2000,
+    "correct_authors": "Ellen Emerson White",
+    "correct_year": "2002",
+    "tokens": 96,
+    "similarity": 1.0
+  },
+  {
+    "title": "White Indian #02: Renegade",
+    "authors": "Donald Clayton Porter",
+    "year": 1985,
+    "correct_authors": "Donald Clayton Porter",
+    "correct_year": "1982",
+    "tokens": 70,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Lonely Guy",
+    "authors": "Bruce Jay Friedman",
+    "year": 1978,
+    "correct_authors": "Bruce J. Friedman",
+    "correct_year": "1983",
+    "tokens": 66,
+    "similarity": 0.9142857142857143
+  },
+  {
+    "title": "Insects (DK Pockets)",
+    "authors": "Laurence Mound",
+    "year": 2004,
+    "correct_authors": "L. A. Mound",
+    "correct_year": "2003",
+    "tokens": 71,
+    "similarity": 0.64
+  },
+  {
+    "title": "Forget-Me-Nots: A Victorian Book of Love",
+    "authors": "John S. Goodall",
+    "year": 1987,
+    "correct_authors": "Cynthia Hart",
+    "correct_year": "1990",
+    "tokens": 76,
+    "similarity": 0.14814814814814814
+  },
+  {
+    "title": "Star Bright!: A Christmas Story",
+    "authors": "Andrew Peterson",
+    "year": 2014,
+    "correct_authors": "Andrew M. Greeley",
+    "correct_year": "2002",
+    "tokens": 68,
+    "similarity": 0.5
+  },
+  {
+    "title": "Out of Solitude; Three Meditations on the Christian Life,",
+    "authors": "Henri J.M. Nouwen",
+    "year": 1974,
+    "correct_authors": "Henri J. M. Nouwen",
+    "correct_year": "1974",
+    "tokens": 80,
+    "similarity": 0.9714285714285714
+  },
+  {
+    "title": "Droll Science",
+    "authors": "E. Boyd Smith",
+    "year": 1877,
+    "correct_authors": "Robert L. Weber",
+    "correct_year": "1987",
+    "tokens": 67,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "Chewing: Plus Training Tips (Simple Solutions)",
+    "authors": "Miriam Fields-Babineau",
+    "year": 2004,
+    "correct_authors": "Kim Campbell Thornton",
+    "correct_year": "2002",
+    "tokens": 77,
+    "similarity": 0.27906976744186046
+  },
+  {
+    "title": "The Widow Ginger",
+    "authors": "Pamela Duncan Edwards",
+    "year": 2003,
+    "correct_authors": "Pip Granger",
+    "correct_year": "2003",
+    "tokens": 68,
+    "similarity": 0.375
+  },
+  {
+    "title": "Gideon's Trumpet",
+    "authors": "Anthony Lewis",
+    "year": 1964,
+    "correct_authors": "ANTHONY LEWIS",
+    "correct_year": "1989",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Reflecting Pond: Meditations for Self-Discovery",
+    "authors": "Liane Cordes",
+    "year": 2001,
+    "correct_authors": "Liane Cordes",
+    "correct_year": "2003",
+    "tokens": 75,
+    "similarity": 1.0
+  },
+  {
+    "title": "Garden (Fingerwiggles Board Book)",
+    "authors": "Hannah Reidy",
+    "year": 2021,
+    "correct_authors": "Julie Lacome",
+    "correct_year": "1995",
+    "tokens": 74,
+    "similarity": 0.08333333333333333
+  },
+  {
+    "title": "The Road Unseen",
+    "authors": "Peter D. Ward",
+    "year": 2013,
+    "correct_authors": "Peter Jenkins",
+    "correct_year": "1987",
+    "tokens": 68,
+    "similarity": 0.46153846153846156
+  },
+  {
+    "title": "Cc The Night Before Christmas",
+    "authors": "Clement Clarke Moore",
+    "year": 1823,
+    "correct_authors": "Clement C. Moore",
+    "correct_year": "1991",
+    "tokens": 70,
+    "similarity": 0.8333333333333334
+  },
+  {
+    "title": "Silenced",
+    "authors": "Kristen Heitzmann",
+    "year": 2003,
+    "correct_authors": "Makeda Silvera",
+    "correct_year": "1984",
+    "tokens": 67,
+    "similarity": 0.12903225806451613
+  },
+  {
+    "title": "Benny and Omar",
+    "authors": "Eoin Colfer",
+    "year": 1998,
+    "correct_authors": "Eoin Colfer",
+    "correct_year": "2001",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Impostor (Timeswept)",
+    "authors": "Kathryn Mackel",
+    "year": 1998,
+    "correct_authors": "Elaine Fox",
+    "correct_year": "1999",
+    "tokens": 74,
+    "similarity": 0.16666666666666666
+  },
+  {
+    "title": "Psyearth Quest: A Prophetic Novel",
+    "authors": "David Tabatsky",
+    "year": 2017,
+    "correct_authors": "Charles Bensinger",
+    "correct_year": "1998",
+    "tokens": 74,
+    "similarity": 0.12903225806451613
+  },
+  {
+    "title": "How to Have a Smarter Baby : The Infant Stimulation Program For Enhancing Your Baby's Natural Development",
+    "authors": "Susan Ludington-Hoe Susan K. Golant",
+    "year": 1985,
+    "correct_authors": "SUSAN LUDINGTON-HOE",
+    "correct_year": "1987",
+    "tokens": 93,
+    "similarity": 0.7037037037037037
+  },
+  {
+    "title": "The FOUR MAGICS (Wing Commander)",
+    "authors": "William R. Forstchen Andrew Keith",
+    "year": 1992,
+    "correct_authors": "William R. Forstchen",
+    "correct_year": "1996",
+    "tokens": 79,
+    "similarity": 0.7547169811320755
+  },
+  {
+    "title": "The Autograph",
+    "authors": "Anne Morrow Lindbergh",
+    "year": 1970,
+    "correct_authors": "Teresa Howard",
+    "correct_year": "2003",
+    "tokens": 68,
+    "similarity": 0.17647058823529413
+  },
+  {
+    "title": "The Innocents",
+    "authors": "Michael Crummey",
+    "year": 2019,
+    "correct_authors": "Carolyn Slaughter",
+    "correct_year": "1986",
+    "tokens": 67,
+    "similarity": 0.25
+  },
+  {
+    "title": "Sir Philip Sidney (The Oxford Authors)",
+    "authors": "Philip Sidney",
+    "year": 1989,
+    "correct_authors": "Philip, Sir Sidney",
+    "correct_year": "1989",
+    "tokens": 70,
+    "similarity": 0.8387096774193549
+  },
+  {
+    "title": "Stealing Magic",
+    "authors": "Tanya Huff",
+    "year": 1999,
+    "correct_authors": "Tanya Huff",
+    "correct_year": "1999",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "Love and Pasta: A Recollection.",
+    "authors": "Teodoro Asarelli",
+    "year": 2021,
+    "correct_authors": "Joe. Vergara",
+    "correct_year": "1968",
+    "tokens": 74,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "The Return of the Twelves (Common Reader Editions)",
+    "authors": "Pauline Clarke",
+    "year": 1962,
+    "correct_authors": "Pauline Clarke",
+    "correct_year": "2000",
+    "tokens": 75,
+    "similarity": 1.0
+  },
+  {
+    "title": "Ruthless Contract (Wedlocked!) (Harlequin Presents, No 1807)",
+    "authors": "Helen Bianchin",
+    "year": 1996,
+    "correct_authors": "Alex Ross",
+    "correct_year": "1996",
+    "tokens": 82,
+    "similarity": 0.2608695652173913
+  },
+  {
+    "title": "What Jesus Taught about Manifesting Abundance",
+    "authors": "Tony Burroughs",
+    "year": 2009,
+    "correct_authors": "John Avanzini",
+    "correct_year": "1996",
+    "tokens": 73,
+    "similarity": 0.14814814814814814
+  },
+  {
+    "title": "Witness in Heaven (Appomattox Saga #10)",
+    "authors": "Gilbert Morris",
+    "year": 2004,
+    "correct_authors": "Gilbert Morris",
+    "correct_year": "1998",
+    "tokens": 75,
+    "similarity": 1.0
+  },
+  {
+    "title": "Becoming Visible : An Illustrated History of Lesbian and Gay Life in Twentieth-Century America",
+    "authors": "Molly McGarry Fred Wasserman",
+    "year": 1998,
+    "correct_authors": "Molly McGarry",
+    "correct_year": "1998",
+    "tokens": 88,
+    "similarity": 0.6341463414634146
+  },
+  {
+    "title": "Pumping Ions",
+    "authors": "Steven Caplan Matthew T. Andrews",
+    "year": 2014,
+    "correct_authors": "Tom Wujec",
+    "correct_year": "1988",
+    "tokens": 73,
+    "similarity": 0.1951219512195122
+  },
+  {
+    "title": "First and Always Poems for Great Ormond Childrens Hospital",
+    "authors": "Gwyneth Lewis",
+    "year": 2014,
+    "correct_authors": "Lawrence Sail",
+    "correct_year": "1988",
+    "tokens": 76,
+    "similarity": 0.23076923076923078
+  },
+  {
+    "title": "Yes to Human Cloning: Immortality Thanks to Science",
+    "authors": "Davide Malagoli",
+    "year": 2015,
+    "correct_authors": "Claude Rael",
+    "correct_year": "2001",
+    "tokens": 77,
+    "similarity": 0.46153846153846156
+  },
+  {
+    "title": "Original Sins : Lost Slayer Serial Novel part 4",
+    "authors": "Christopher Golden",
+    "year": 2001,
+    "correct_authors": "Christopher Golden",
+    "correct_year": "2001",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "Slowing Down in a Speeded Up World",
+    "authors": "Lois Joy Johnson",
+    "year": 1996,
+    "correct_authors": "Adair Lara",
+    "correct_year": "1994",
+    "tokens": 73,
+    "similarity": 0.15384615384615385
+  },
+  {
+    "title": "Kratts' Creatures: To Be a Chimpanzee (Kratts' Creatures)",
+    "authors": "Chris Kratt Martin Kratt",
+    "year": 1996,
+    "correct_authors": "Chris Kratt",
+    "correct_year": "1997",
+    "tokens": 85,
+    "similarity": 0.6285714285714286
+  },
+  {
+    "title": "Last of the Mohicans (Pacemaker Classics)",
+    "authors": "James Fenimore Cooper",
+    "year": 1826,
+    "correct_authors": "John Smith Harrison",
+    "correct_year": "1967",
+    "tokens": 75,
+    "similarity": 0.2
+  },
+  {
+    "title": "Marilyn : Life &amp; Legend",
+    "authors": "Liz Adams",
+    "year": 2005,
+    "correct_authors": "Susan Doll",
+    "correct_year": "1990",
+    "tokens": 70,
+    "similarity": 0.10526315789473684
+  },
+  {
+    "title": "Salt Rock Mysteries",
+    "authors": "P.C. Zick",
+    "year": 2019,
+    "correct_authors": "Magdelena Zschokke",
+    "correct_year": "2000",
+    "tokens": 69,
+    "similarity": 0.2962962962962963
+  },
+  {
+    "title": "Eyewitness Travel Phrase Book: Japanese",
+    "authors": "DK Publishing",
+    "year": 2011,
+    "correct_authors": "Anthony P. Newell",
+    "correct_year": "1999",
+    "tokens": 69,
+    "similarity": 0.2
+  },
+  {
+    "title": "The Keeping Place (The Obernewtyn Chronicles)",
+    "authors": "Isobelle Carmody",
+    "year": 1999,
+    "correct_authors": "Isobelle Carmody",
+    "correct_year": "0",
+    "tokens": 76,
+    "similarity": 1.0
+  },
+  {
+    "title": "Diane: Twin Peaks Tapes of Agent Cooper",
+    "authors": "Scott Frost",
+    "year": 1990,
+    "correct_authors": "Kyle MacLachlan",
+    "correct_year": "1990",
+    "tokens": 71,
+    "similarity": 0.07692307692307693
+  },
+  {
+    "title": "Getting Sent: A Relational Approach to Support Raising",
+    "authors": "William D. Dillon",
+    "year": 2003,
+    "correct_authors": "Pete Sommer",
+    "correct_year": "1999",
+    "tokens": 75,
+    "similarity": 0.14285714285714285
+  },
+  {
+    "title": "Let's Go All Around the Neighborhood (First Little Golden Book)",
+    "authors": "Eleanor Fremont",
+    "year": 1996,
+    "correct_authors": "Patty Thomas",
+    "correct_year": "1997",
+    "tokens": 77,
+    "similarity": 0.14814814814814814
+  },
+  {
+    "title": "Skyfire",
+    "authors": "Michael-Scott Earle",
+    "year": 2017,
+    "correct_authors": "Frank Asch",
+    "correct_year": "0",
+    "tokens": 67,
+    "similarity": 0.20689655172413793
+  },
+  {
+    "title": "Can do, Missy Charlie",
+    "authors": "Barbara Samuels",
+    "year": 1991,
+    "correct_authors": "Barbara Brooks Wallace",
+    "correct_year": "1974",
+    "tokens": 70,
+    "similarity": 0.5945945945945946
+  },
+  {
+    "title": "Visual C++ 2 for Dummies",
+    "authors": "Michael J. Young John Paul Mueller",
+    "year": 1997,
+    "correct_authors": "Michael Hyman",
+    "correct_year": "1995",
+    "tokens": 77,
+    "similarity": 0.425531914893617
+  },
+  {
+    "title": "The Scots Book of Lore and Folklore",
+    "authors": "R.F. McEwan",
+    "year": 1989,
+    "correct_authors": "Ronald MacDonald Douglas",
+    "correct_year": "1986",
+    "tokens": 74,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "Trouble With Andrew : Sex, Politics, and the Ethics of Queer Life (Silhouette Intimate Moments, No 525)",
+    "authors": "David Thomas Smith",
+    "year": 2003,
+    "correct_authors": "Heather Pozzessere",
+    "correct_year": "1993",
+    "tokens": 89,
+    "similarity": 0.2777777777777778
+  },
+  {
+    "title": "Animal Farm",
+    "authors": "George Orwell",
+    "year": 1945,
+    "correct_authors": "George Orwell",
+    "correct_year": "1956",
+    "tokens": 64,
+    "similarity": 1.0
+  },
+  {
+    "title": "Mister Sandman: A novel",
+    "authors": "Barbara Gowdy",
+    "year": 1995,
+    "correct_authors": "Barbara Gowdy",
+    "correct_year": "1995",
+    "tokens": 70,
+    "similarity": 1.0
+  },
+  {
+    "title": "DTV Junior: Der Fisch Ohne Fahrrad",
+    "authors": "Jutta Bauer",
+    "year": 1997,
+    "correct_authors": "Dunkel",
+    "correct_year": "0",
+    "tokens": 75,
+    "similarity": 0.23529411764705882
+  },
+  {
+    "title": "Childs Garden of Verses",
+    "authors": "Robert Louis Stevenson",
+    "year": 1885,
+    "correct_authors": "Robert Stevenson",
+    "correct_year": "0",
+    "tokens": 69,
+    "similarity": 0.8421052631578947
+  },
+  {
+    "title": "LAST CHANTS (Willa Jansson Mystery)",
+    "authors": "Merlinda Bobis",
+    "year": 1998,
+    "correct_authors": "Lia Matera",
+    "correct_year": "1997",
+    "tokens": 75,
+    "similarity": 0.3333333333333333
+  },
+  {
+    "title": "The Yosemite Handbook: An Insider's Guide to the Park",
+    "authors": "Suzanne Swedo",
+    "year": 2012,
+    "correct_authors": "Susan Frank",
+    "correct_year": "1998",
+    "tokens": 76,
+    "similarity": 0.4166666666666667
+  },
+  {
+    "title": "Greek Art",
+    "authors": "John Boardman",
+    "year": 1964,
+    "correct_authors": "John Boardman",
+    "correct_year": "0",
+    "tokens": 65,
+    "similarity": 1.0
+  },
+  {
+    "title": "Misterioso. Kriminalroman.",
+    "authors": "Arne Dahl",
+    "year": 1999,
+    "correct_authors": "Arne Dahl",
+    "correct_year": "2002",
+    "tokens": 70,
+    "similarity": 1.0
+  },
+  {
+    "title": "DISCO NIXON : THE FIRST SEVENTIES TRIVIA BOOK-OVER 1,000 BRAIN-TEASING QUESTIONS AND ANSWERS",
+    "authors": "Elizabeth Terry",
+    "year": 1974,
+    "correct_authors": "Marilyn Werden",
+    "correct_year": "1995",
+    "tokens": 95,
+    "similarity": 0.27586206896551724
+  },
+  {
+    "title": "By the Wayside",
+    "authors": "J.R. Salamanca",
+    "year": 1959,
+    "correct_authors": "Jeff Putnam",
+    "correct_year": "1992",
+    "tokens": 70,
+    "similarity": 0.32
+  },
+  {
+    "title": "HOW TO STAY ALIVE IN THE WOODS",
+    "authors": "Bradford Angier",
+    "year": 1956,
+    "correct_authors": "Bradford Angier",
+    "correct_year": "1962",
+    "tokens": 75,
+    "similarity": 1.0
+  },
+  {
+    "title": "Pathway to ecstasy: The way of the dream mandala",
+    "authors": "Gopi Krishna",
+    "year": 1981,
+    "correct_authors": "Patricia L Garfield",
+    "correct_year": "1979",
+    "tokens": 79,
+    "similarity": 0.25806451612903225
+  },
+  {
+    "title": "Dark Desire : A Vampire Novel",
+    "authors": "Christine Feehan",
+    "year": 1999,
+    "correct_authors": "Elaine Moore",
+    "correct_year": "2004",
+    "tokens": 70,
+    "similarity": 0.35714285714285715
+  },
+  {
+    "title": "The Rough Guide to Mexico (Rough Guide Mexico)",
+    "authors": "John Fisher Daniel Jacobs",
+    "year": 2015,
+    "correct_authors": "John Fisher",
+    "correct_year": "2002",
+    "tokens": 77,
+    "similarity": 0.6111111111111112
+  },
+  {
+    "title": "Didn't My Skin Used to Fit?",
+    "authors": "Martha Bolton",
+    "year": 1992,
+    "correct_authors": "Martha Bolton",
+    "correct_year": "2000",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Marshall Decision and Native Rights (Mcgill-Queen's Native and Northern Series, 25)",
+    "authors": "Kent McNeil",
+    "year": 2000,
+    "correct_authors": "Kenneth Coates",
+    "correct_year": "2001",
+    "tokens": 84,
+    "similarity": 0.4
+  },
+  {
+    "title": "Precision Heart Rate Training",
+    "authors": "Edmund R. Burke Sally Edwards",
+    "year": 2006,
+    "correct_authors": "Edmund Burke",
+    "correct_year": "1998",
+    "tokens": 74,
+    "similarity": 0.5853658536585366
+  },
+  {
+    "title": "The Bubba Gump Shrimp Co. Cookbook: Recipes &amp; Reflections from Forrest Gump",
+    "authors": "Southern Living Magazine Ben Simon",
+    "year": 1994,
+    "correct_authors": "Winston Groom",
+    "correct_year": "1994",
+    "tokens": 89,
+    "similarity": 0.2127659574468085
+  },
+  {
+    "title": "My Dearest Friend",
+    "authors": "Abigail Adams",
+    "year": 1975,
+    "correct_authors": "Nancy Thayer",
+    "correct_year": "1991",
+    "tokens": 67,
+    "similarity": 0.24
+  },
+  {
+    "title": "Le Horla et autres nouvelles fantastiques",
+    "authors": "Guy de Maupassant",
+    "year": 1887,
+    "correct_authors": "Guy de Maupassant",
+    "correct_year": "2003",
+    "tokens": 74,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Dangers of Strangers",
+    "authors": "Herbert A. Wagner",
+    "year": 1978,
+    "correct_authors": "Carole G. Vogel",
+    "correct_year": "1983",
+    "tokens": 71,
+    "similarity": 0.3125
+  },
+  {
+    "title": "Walking the Rez Road",
+    "authors": "Jim Northrup",
+    "year": 1993,
+    "correct_authors": "Jim Northrup",
+    "correct_year": "1993",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Spellsong War (Spellsong Cycle/L.E. Modesitt, Bk 2)",
+    "authors": "L.E. Modesitt Jr.",
+    "year": 1998,
+    "correct_authors": "L. E. Modesitt Jr.",
+    "correct_year": "1998",
+    "tokens": 87,
+    "similarity": 0.9714285714285714
+  },
+  {
+    "title": "Mars and Venus Together Forever: A Practical Guide to Creating Lasting Intimacy",
+    "authors": "John Gray",
+    "year": 1996,
+    "correct_authors": "John Gray",
+    "correct_year": "1998",
+    "tokens": 78,
+    "similarity": 1.0
+  },
+  {
+    "title": "Not the Only Planet: Science Fiction Travel Stories",
+    "authors": "Damien Broderick",
+    "year": 2018,
+    "correct_authors": "Damien Broderick",
+    "correct_year": "1998",
+    "tokens": 74,
+    "similarity": 1.0
+  },
+  {
+    "title": "Tinieblas",
+    "authors": "Octavio Paz",
+    "year": 1963,
+    "correct_authors": "DEAN KOONTZ",
+    "correct_year": "2002",
+    "tokens": 67,
+    "similarity": 0.2727272727272727
+  },
+  {
+    "title": "Psychogenesis: Everything Begins in Mind",
+    "authors": "A. A. Ukhtomsky",
+    "year": "1978",
+    "correct_authors": "Jack E. Addington",
+    "correct_year": "1994",
+    "tokens": 75,
+    "similarity": 0.375
+  },
+  {
+    "title": "Gaia: A New Look at Life on Earth",
+    "authors": "James Lovelock",
+    "year": 1979,
+    "correct_authors": "J.E. Lovelock",
+    "correct_year": "1987",
+    "tokens": 74,
+    "similarity": 0.8148148148148148
+  },
+  {
+    "title": "Homicide: A Year on the Killing Streets",
+    "authors": "David Simon",
+    "year": 1991,
+    "correct_authors": "David Simon",
+    "correct_year": "1991",
+    "tokens": 72,
+    "similarity": 1.0
+  },
+  {
+    "title": "Mohawk Ladder",
+    "authors": "Henrietta D. Smith",
+    "year": "1997",
+    "correct_authors": "Noel B. Gerson",
+    "correct_year": "1951",
+    "tokens": 70,
+    "similarity": 0.375
+  },
+  {
+    "title": "Under His Protection   Bachelors at Large (Harlequin Intrigue, 733)",
+    "authors": "Barb Han",
+    "year": 2012,
+    "correct_authors": "Amy J. Fetzer",
+    "correct_year": "2003",
+    "tokens": 82,
+    "similarity": 0.19047619047619047
+  },
+  {
+    "title": "Anything you can do (Kismet)",
+    "authors": "Irving Berlin",
+    "year": 1946,
+    "correct_authors": "Sara Garrett",
+    "correct_year": "1993",
+    "tokens": 71,
+    "similarity": 0.24
+  },
+  {
+    "title": "Escape to Witch Mountain",
+    "authors": "Alexander Key",
+    "year": 1968,
+    "correct_authors": "Alexander Key",
+    "correct_year": "1968",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "Respecting the Wicked Child: A Philosophy of Secular Jewish Identity and Education",
+    "authors": "Mitchell Silver",
+    "year": 1998,
+    "correct_authors": "Mitchell Silver",
+    "correct_year": "1998",
+    "tokens": 79,
+    "similarity": 1.0
+  },
+  {
+    "title": "20-Minute Yoga Workouts",
+    "authors": "Kristin McGee",
+    "year": 2013,
+    "correct_authors": "American Yoga Association",
+    "correct_year": "1995",
+    "tokens": 72,
+    "similarity": 0.2631578947368421
+  },
+  {
+    "title": "Informix -4Gl by Example",
+    "authors": "Jane Griscti",
+    "year": 1992,
+    "correct_authors": "Informix Press",
+    "correct_year": "1994",
+    "tokens": 72,
+    "similarity": 0.15384615384615385
+  },
+  {
+    "title": "Our Sexuality",
+    "authors": "Robert L. Crooks Karla Baur",
+    "year": 2015,
+    "correct_authors": "Robert Crooks",
+    "correct_year": "1992",
+    "tokens": 74,
+    "similarity": 0.65
+  },
+  {
+    "title": "The Encyclopedia of Angels",
+    "authors": "Rosemary Guiley",
+    "year": "2004",
+    "correct_authors": "Constance Victoria Briggs",
+    "correct_year": "1997",
+    "tokens": 68,
+    "similarity": 0.2
+  },
+  {
+    "title": "The Bbc Microcomputer for Beginners",
+    "authors": "David Lawrence",
+    "year": 1982,
+    "correct_authors": "Seamus Dunn",
+    "correct_year": "1983",
+    "tokens": 69,
+    "similarity": 0.16
+  },
+  {
+    "title": "Magic Spectacles/",
+    "authors": "Jack Prelutsky",
+    "year": 2004,
+    "correct_authors": "Lilian Moore",
+    "correct_year": "1985",
+    "tokens": 68,
+    "similarity": 0.3076923076923077
+  },
+  {
+    "title": "La Aventura del Tocador de Senoras",
+    "authors": "Eduardo Mendoza",
+    "year": 2001,
+    "correct_authors": "Eduardo Mendoza",
+    "correct_year": "2001",
+    "tokens": 76,
+    "similarity": 1.0
+  },
+  {
+    "title": "Hush Money",
+    "authors": "Chuck Greaves",
+    "year": 2012,
+    "correct_authors": "Robert B. Parker",
+    "correct_year": "1999",
+    "tokens": 66,
+    "similarity": 0.27586206896551724
+  },
+  {
+    "title": "The Secret Houses",
+    "authors": "Sophie Hannah",
+    "year": 2008,
+    "correct_authors": "John Gardner",
+    "correct_year": "1990",
+    "tokens": 66,
+    "similarity": 0.32
+  },
+  {
+    "title": "Don't Call It Night",
+    "authors": "Amos Oz",
+    "year": 2008,
+    "correct_authors": "Amos Oz",
+    "correct_year": "1996",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Spanish Grammar",
+    "authors": "David P. Pharies",
+    "year": 2007,
+    "correct_authors": "John Butt",
+    "correct_year": "2000",
+    "tokens": 67,
+    "similarity": 0.08
+  },
+  {
+    "title": "Private Confessions",
+    "authors": "Ingmar Bergman",
+    "year": 1996,
+    "correct_authors": "Ingmar Bergman",
+    "correct_year": "1996",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Parenthood by Proxy: Don't Have Them If You Won't Raise Them",
+    "authors": "Laura Stepp",
+    "year": 1997,
+    "correct_authors": "Laura Schlessinger",
+    "correct_year": "2000",
+    "tokens": 77,
+    "similarity": 0.5517241379310345
+  },
+  {
+    "title": "Dear Mom: A Sniper's Vietnam",
+    "authors": "Joseph T. Ward",
+    "year": "1991",
+    "correct_authors": "Joseph T. Ward",
+    "correct_year": "1991",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "Beloved (Penguin Great Books of the 20th Century)",
+    "authors": "Toni Morrison",
+    "year": 1987,
+    "correct_authors": "Toni Morrison",
+    "correct_year": "2000",
+    "tokens": 77,
+    "similarity": 1.0
+  },
+  {
+    "title": "Murder Has A Pretty Face",
+    "authors": "Cynthia Baxter",
+    "year": 2008,
+    "correct_authors": "Jennie Melville",
+    "correct_year": "1991",
+    "tokens": 68,
+    "similarity": 0.06896551724137931
+  },
+  {
+    "title": "The Kids Campfire Book",
+    "authors": "Jane Drake Ann Love",
+    "year": 1998,
+    "correct_authors": "Jane Drake",
+    "correct_year": "1998",
+    "tokens": 71,
+    "similarity": 0.6896551724137931
+  },
+  {
+    "title": "Heart to Heart Stories for Teachers",
+    "authors": "Sandra P. Athans",
+    "year": 2005,
+    "correct_authors": "Joe L. Wheeler",
+    "correct_year": "2003",
+    "tokens": 72,
+    "similarity": 0.26666666666666666
+  },
+  {
+    "title": "Public Enemies: The Host of America's Most Wanted Targets the Nation's Most Notorious Criminals",
+    "authors": "John Walsh",
+    "year": 2003,
+    "correct_authors": "John Walsh",
+    "correct_year": "2001",
+    "tokens": 81,
+    "similarity": 1.0
+  },
+  {
+    "title": "LAMP FROM THE WARLOCK'S TOMB, THE",
+    "authors": "Dennis L. McKiernan",
+    "year": 1985,
+    "correct_authors": "JOHN BELLAIRS",
+    "correct_year": "1989",
+    "tokens": 79,
+    "similarity": 0.25
+  },
+  {
+    "title": "La R\u00c3?\u00c2\u00a8gle du jeu",
+    "authors": "Jean Renoir",
+    "year": 1939,
+    "correct_authors": "Jean Renoir",
+    "correct_year": "1998",
+    "tokens": 72,
+    "similarity": 1.0
+  },
+  {
+    "title": "World of Pies : A Novel",
+    "authors": "Karen Stolz",
+    "year": 1999,
+    "correct_authors": "Karen Stolz",
+    "correct_year": "2001",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "Adorable Sock Dolls to Make &amp; Love",
+    "authors": "Mickey Baskett",
+    "year": 1997,
+    "correct_authors": "Connie Stone",
+    "correct_year": "1999",
+    "tokens": 77,
+    "similarity": 0.38461538461538464
+  },
+  {
+    "title": "P\u00c3?\u00c2\u00a9ch\u00c3?\u00c2\u00a9s mortels",
+    "authors": "Agatha Christie",
+    "year": 1941,
+    "correct_authors": "Donna Leon",
+    "correct_year": "2001",
+    "tokens": 76,
+    "similarity": 0.24
+  },
+  {
+    "title": "The Sword and the Circle: King Arthur and the Knights of the Round Table",
+    "authors": "Rosemary Sutcliff",
+    "year": 1981,
+    "correct_authors": "Rosemary Sutcliff",
+    "correct_year": "1981",
+    "tokens": 81,
+    "similarity": 1.0
+  },
+  {
+    "title": "Scottish Fairy Tales",
+    "authors": "Donald Alexander Mackenzie",
+    "year": 1918,
+    "correct_authors": "Senate",
+    "correct_year": "1995",
+    "tokens": 67,
+    "similarity": 0.1875
+  },
+  {
+    "title": "The Glory Field (and Related Readings, Literature Connections)",
+    "authors": "Walter Dean Myers",
+    "year": 1994,
+    "correct_authors": "Walter Dean Myers",
+    "correct_year": "1997",
+    "tokens": 76,
+    "similarity": 1.0
+  },
+  {
+    "title": "Tt Thank You",
+    "authors": "Mo Willems",
+    "year": 2003,
+    "correct_authors": "Bridget Sullivan",
+    "correct_year": "1996",
+    "tokens": 68,
+    "similarity": 0.23076923076923078
+  },
+  {
+    "title": "Cognitive Psychology and Instruction",
+    "authors": "Roger H. Bruning Gregory J. Schraw",
+    "year": 2005,
+    "correct_authors": "Roger H. Bruning",
+    "correct_year": "1995",
+    "tokens": 77,
+    "similarity": 0.64
+  },
+  {
+    "title": "Chesapeake Blue (Quinn Brothers (Hardcover))",
+    "authors": "Nora Roberts",
+    "year": 2002,
+    "correct_authors": "Nora Roberts",
+    "correct_year": "2002",
+    "tokens": 74,
+    "similarity": 1.0
+  },
+  {
+    "title": "Avatar (Angel)",
+    "authors": "Chrissie Zullo Bryan Edward Hill",
+    "year": 2021,
+    "correct_authors": "John Passarella",
+    "correct_year": "2001",
+    "tokens": 75,
+    "similarity": 0.2978723404255319
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe (The Chronicles of Narnia, Book 2)",
+    "authors": "C.S. Lewis",
+    "year": 1950,
+    "correct_authors": "C. S. Lewis",
+    "correct_year": "2000",
+    "tokens": 85,
+    "similarity": 0.9523809523809523
+  },
+  {
+    "title": "The Black Echo",
+    "authors": "Michael Connelly",
+    "year": 1992,
+    "correct_authors": "Michael Connelly",
+    "correct_year": "2002",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "To Tame A Wild Heart (Harlequin Presents, No. 1455)",
+    "authors": "Robyn Donald",
+    "year": 1992,
+    "correct_authors": "Emma Darcy",
+    "correct_year": "1992",
+    "tokens": 81,
+    "similarity": 0.2727272727272727
+  },
+  {
+    "title": "The Longman Anthology of Women's Literature",
+    "authors": "Mary K. DeShazer Gina Wisker Carole Silver",
+    "year": 2006,
+    "correct_authors": "Mary K. Deshazer",
+    "correct_year": "2000",
+    "tokens": 87,
+    "similarity": 0.5517241379310345
+  },
+  {
+    "title": "Loud and Clear",
+    "authors": "Anna Quindlen",
+    "year": 2004,
+    "correct_authors": "Anna Quindlen",
+    "correct_year": "2004",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "Prejudice Across America",
+    "authors": "Charles G. Hurst",
+    "year": 1999,
+    "correct_authors": "James Waller",
+    "correct_year": "2000",
+    "tokens": 70,
+    "similarity": 0.35714285714285715
+  },
+  {
+    "title": "Will Rogers, his life and times, (An American heritage biography)",
+    "authors": "Donald Day",
+    "year": 1973,
+    "correct_authors": "Richard M Ketchum",
+    "correct_year": "1973",
+    "tokens": 76,
+    "similarity": 0.2222222222222222
+  },
+  {
+    "title": "The Magnificent Savages",
+    "authors": "Fredrick McKissack Patricia McKissack",
+    "year": 1999,
+    "correct_authors": "Fred Mustard Stewart",
+    "correct_year": "1996",
+    "tokens": 77,
+    "similarity": 0.42105263157894735
+  },
+  {
+    "title": "Desert Spring : A Claire Gray Mystery (Craft, Michael, Claire Gray Series.)",
+    "authors": "Michael Craft",
+    "year": 2009,
+    "correct_authors": "Michael Craft",
+    "correct_year": "2004",
+    "tokens": 78,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Simpsons Rainy Day Fun Book",
+    "authors": "Matt Groening Mary Trainor",
+    "year": 1991,
+    "correct_authors": "Matt Groening",
+    "correct_year": "1991",
+    "tokens": 75,
+    "similarity": 0.6666666666666666
+  },
+  {
+    "title": "Ford Pick-ups and Bronco, 1987-96 (Chilton's Total Car Care Series)",
+    "authors": "Jaffer A. Ahmad Chilton",
+    "year": 1997,
+    "correct_authors": "Chilton",
+    "correct_year": "1997",
+    "tokens": 90,
+    "similarity": 0.4666666666666667
+  },
+  {
+    "title": "The Rest of the Earth",
+    "authors": "Daphne Marlatt",
+    "year": 1972,
+    "correct_authors": "William Haywood Henderson",
+    "correct_year": "1997",
+    "tokens": 70,
+    "similarity": 0.10256410256410256
+  },
+  {
+    "title": "Selected Poems",
+    "authors": "E.E. Cummings",
+    "year": 1994,
+    "correct_authors": "Jenny Joseph",
+    "correct_year": "1992",
+    "tokens": 67,
+    "similarity": 0.24
+  },
+  {
+    "title": "The Red Sea Dive Guide",
+    "authors": "Gerry Fraser",
+    "year": 2018,
+    "correct_authors": "Andrea Ghisotti",
+    "correct_year": "1999",
+    "tokens": 68,
+    "similarity": 0.14814814814814814
+  },
+  {
+    "title": "With Your Crooked Heart",
+    "authors": "Helen Dunmore",
+    "year": 1994,
+    "correct_authors": "Helen Dunmore",
+    "correct_year": "2000",
+    "tokens": 69,
+    "similarity": 1.0
+  },
+  {
+    "title": "MacDougal Meets His Match (Harlequin American Romance, 1002)",
+    "authors": "Sherryl Woods",
+    "year": 2004,
+    "correct_authors": "Leah Vale",
+    "correct_year": "2004",
+    "tokens": 82,
+    "similarity": 0.18181818181818182
+  },
+  {
+    "title": "Through All Eternity",
+    "authors": "Albert Tomey",
+    "year": 2021,
+    "correct_authors": "Sondra Stanford",
+    "correct_year": "1988",
+    "tokens": 68,
+    "similarity": 0.07407407407407407
+  },
+  {
+    "title": "Islam in Modern History",
+    "authors": "Wilfred Cantwell Smith",
+    "year": 1957,
+    "correct_authors": "Wilfred Cantwell Smith",
+    "correct_year": "1977",
+    "tokens": 69,
+    "similarity": 1.0
+  },
+  {
+    "title": "Colorado Carnage (The Trailsman, No 166)",
+    "authors": "Jon Sharpe",
+    "year": 1997,
+    "correct_authors": "Jon Sharpe",
+    "correct_year": "1995",
+    "tokens": 75,
+    "similarity": 1.0
+  },
+  {
+    "title": "David Copperfield (Everyman Paperback Classics)",
+    "authors": "Charles Dickens",
+    "year": 1850,
+    "correct_authors": "Charles Dickens",
+    "correct_year": "1993",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "Tangerine (Apple Signature Edition)",
+    "authors": "Edward Bloor",
+    "year": 1997,
+    "correct_authors": "Edward Bloor",
+    "correct_year": "1998",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Gates of Sleep",
+    "authors": "Mercedes Lackey",
+    "year": 2003,
+    "correct_authors": "Mercedes Lackey",
+    "correct_year": "2002",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Man For Maggie Moore (Montana Matchmakers) (Harlequin Temptation, No. 858)",
+    "authors": "Anne McAllister",
+    "year": 2001,
+    "correct_authors": "Kristine Rolofson",
+    "correct_year": "2001",
+    "tokens": 87,
+    "similarity": 0.3125
+  },
+  {
+    "title": "Beautiful Visit",
+    "authors": "Nadine Gordimer",
+    "year": 1983,
+    "correct_authors": "Elizabeth J Howard",
+    "correct_year": "0",
+    "tokens": 67,
+    "similarity": 0.30303030303030304
+  },
+  {
+    "title": "Faint Praise: A Jane Lawless Mystery (Jane Lawless Mysteries (Hardcover))",
+    "authors": "Ellen Hart",
+    "year": 1997,
+    "correct_authors": "Ellen Hart",
+    "correct_year": "1995",
+    "tokens": 83,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Land That Never Was: Sir Gregor Macgregor and the Most Audacious Fraud in History",
+    "authors": "David Sinclair",
+    "year": 2003,
+    "correct_authors": "David Sinclair",
+    "correct_year": "2004",
+    "tokens": 82,
+    "similarity": 1.0
+  },
+  {
+    "title": "A Guide to the Celtic Dragon Tarot",
+    "authors": "D. J. Conway",
+    "year": 1999,
+    "correct_authors": "D. J. Conway",
+    "correct_year": "0",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Veteran",
+    "authors": "Frederick Forsyth",
+    "year": 2001,
+    "correct_authors": "Frederick Forsyth",
+    "correct_year": "2003",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "WHO PUT THAT HAIR IN MY TOOTHBRUSH?",
+    "authors": "Jerry Spinelli",
+    "year": 1994,
+    "correct_authors": "JERRY SPINELLI",
+    "correct_year": "1986",
+    "tokens": 75,
+    "similarity": 1.0
+  },
+  {
+    "title": "Dead Pan (Jocelyn O'roarke Mystery)",
+    "authors": "J. B. Stanley",
+    "year": 2007,
+    "correct_authors": "Jane Dentinger",
+    "correct_year": "1992",
+    "tokens": 78,
+    "similarity": 0.2962962962962963
+  },
+  {
+    "title": "Tecumseh's Last Stand",
+    "authors": "David Goodnough",
+    "year": 1953,
+    "correct_authors": "John Sugden",
+    "correct_year": "1990",
+    "tokens": 76,
+    "similarity": 0.3076923076923077
+  },
+  {
+    "title": "Visual Basic .NET and the .NET Platform: An Advanced Guide",
+    "authors": "Andrew Troelsen",
+    "year": 2002,
+    "correct_authors": "Andrew Troelsen",
+    "correct_year": "2001",
+    "tokens": 76,
+    "similarity": 1.0
+  },
+  {
+    "title": "From Beginning to End: The Rituals of Our Lives",
+    "authors": "Robert Fulghum",
+    "year": 1995,
+    "correct_authors": "Robert Fulghum",
+    "correct_year": "1995",
+    "tokens": 75,
+    "similarity": 1.0
+  },
+  {
+    "title": "Weave World",
+    "authors": "Clive Barker",
+    "year": 1987,
+    "correct_authors": "Clive Barker",
+    "correct_year": "1987",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "WHITE BUTTERFLY : Featuring an Original Easy Rawlins Short Story \\Lavender\\\" (Easy Rawlins Mysteries (Paperback))\"",
+    "authors": "Walter Mosley",
+    "year": 2008,
+    "correct_authors": "Walter Mosley",
+    "correct_year": "1993",
+    "tokens": 96,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Edge of Sleep",
+    "authors": "Roberto Orci Zac Stanford",
+    "year": 2019,
+    "correct_authors": "David Wiltse",
+    "correct_year": "1994",
+    "tokens": 73,
+    "similarity": 0.05405405405405406
+  },
+  {
+    "title": "Do or Die",
+    "authors": "Leon Bing",
+    "year": 1992,
+    "correct_authors": "Leon Bing",
+    "correct_year": "1992",
+    "tokens": 65,
+    "similarity": 1.0
+  },
+  {
+    "title": "Monks-hood",
+    "authors": "Ellis Peters",
+    "year": 1980,
+    "correct_authors": "Ellis Peters",
+    "correct_year": "1984",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "Write On!: Business Writing Basics (Self-Counsel Business Series)",
+    "authors": "Leslie C. Wright",
+    "year": 2002,
+    "correct_authors": "Jane Watson",
+    "correct_year": "1996",
+    "tokens": 78,
+    "similarity": 0.2962962962962963
+  },
+  {
+    "title": "Interesting Women: Stories",
+    "authors": "Andrea Lee",
+    "year": 2002,
+    "correct_authors": "Andrea Lee",
+    "correct_year": "2003",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "Just Annoying!",
+    "authors": "Andy Griffiths",
+    "year": 2004,
+    "correct_authors": "Andy Griffiths",
+    "correct_year": "2003",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Navohar",
+    "authors": "Aidan Tripp",
+    "year": 2012,
+    "correct_authors": "Hilari Bell",
+    "correct_year": "2000",
+    "tokens": 67,
+    "similarity": 0.36363636363636365
+  },
+  {
+    "title": "Mourn Not Your Dead",
+    "authors": "Deborah Crombie",
+    "year": 1996,
+    "correct_authors": "Deborah Crombie",
+    "correct_year": "1997",
+    "tokens": 69,
+    "similarity": 1.0
+  },
+  {
+    "title": "Folklore and the sea, (The American maritime library)",
+    "authors": "Horace Beck",
+    "year": 1996,
+    "correct_authors": "Horace Palmer Beck",
+    "correct_year": "1973",
+    "tokens": 75,
+    "similarity": 0.7586206896551724
+  },
+  {
+    "title": "Ethan (Silhouette Romance, No 694)",
+    "authors": "Elaine Nichols",
+    "year": 1990,
+    "correct_authors": "Diana Palmer",
+    "correct_year": "1989",
+    "tokens": 73,
+    "similarity": 0.3076923076923077
+  },
+  {
+    "title": "Diaries: 1939-1960 (Isherwood, Christopher Diaries)",
+    "authors": "Christopher Isherwood",
+    "year": 1996,
+    "correct_authors": "Christopher Isherwood",
+    "correct_year": "1996",
+    "tokens": 82,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Wall Book: The Interior Walls of Your Home and How to Build Them, Move Them and Tear Them Down, How to Decorate Them With Paint, Paper, Panelling",
+    "authors": "Herbert Roy Seligman",
+    "year": 1983,
+    "correct_authors": "Stanley Schuler",
+    "correct_year": "1974",
+    "tokens": 101,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "Into the Zonk Zone! (Abbott, Tony. Time Surfers, No. 4.)",
+    "authors": "Tony Abbott",
+    "year": 1997,
+    "correct_authors": "Tony Abbott",
+    "correct_year": "1996",
+    "tokens": 84,
+    "similarity": 1.0
+  },
+  {
+    "title": "Lorca En Lunfardo - Los \\Seis Poemas Galegos\\\" En E 1A. Ed\"",
+    "authors": "Federico Garc\u00eda Lorca",
+    "year": "1935",
+    "correct_authors": "Federi Garcia Lorca",
+    "correct_year": "1996",
+    "tokens": 90,
+    "similarity": 0.9
+  },
+  {
+    "title": "Talking Leaves: Contemporary Native American Short Stories",
+    "authors": "Craig Lesley Franchot Ballinger",
+    "year": 1992,
+    "correct_authors": "Craig Lesley",
+    "correct_year": "1994",
+    "tokens": 78,
+    "similarity": 0.5581395348837209
+  },
+  {
+    "title": "A Brief History of Tomorrow: The Future Past and Present",
+    "authors": "Yuval Noah Harari",
+    "year": 2017,
+    "correct_authors": "Jonathan Margolis",
+    "correct_year": "2001",
+    "tokens": 76,
+    "similarity": 0.4117647058823529
+  },
+  {
+    "title": "Baby, Baby",
+    "authors": "Mary Polacco",
+    "year": 1991,
+    "correct_authors": "Kylie Adams",
+    "correct_year": "2002",
+    "tokens": 66,
+    "similarity": 0.2608695652173913
+  },
+  {
+    "title": "Three d Wonderland",
+    "authors": "Hannah Montana",
+    "year": 2009,
+    "correct_authors": "Publishing Tokuma",
+    "correct_year": "1993",
+    "tokens": 66,
+    "similarity": 0.3225806451612903
+  },
+  {
+    "title": "The Black Dudley Murder",
+    "authors": "Margery Allingham",
+    "year": 1929,
+    "correct_authors": "Margery Allingham",
+    "correct_year": "1988",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Amish Women: Lives and Stories",
+    "authors": "Louise Stoltzfus",
+    "year": 2004,
+    "correct_authors": "Louise Stoltzfus",
+    "correct_year": "1994",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Napoleon of Notting Hill (Dover Books on Literature and Drama)",
+    "authors": "G.K. Chesterton",
+    "year": 2001,
+    "correct_authors": "G.K. Chesterton",
+    "correct_year": "1991",
+    "tokens": 80,
+    "similarity": 1.0
+  },
+  {
+    "title": "La proph\u00c3?\u00c2\u00a9tie des Andes",
+    "authors": "James Redfield",
+    "year": 1993,
+    "correct_authors": "James Redfield",
+    "correct_year": "2000",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "Beautiful Brittany (Always Friends Club)",
+    "authors": "Susan Benson",
+    "year": 1996,
+    "correct_authors": "Susan Meyers",
+    "correct_year": "1995",
+    "tokens": 69,
+    "similarity": 0.6666666666666666
+  },
+  {
+    "title": "Marmaduke...Again",
+    "authors": "Brad Anderson",
+    "year": 1954,
+    "correct_authors": "Brad Anderson",
+    "correct_year": "1988",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "EIGHT SPELLS A WEEK: SABRINA, THE TEENAGE WITCH #17: SUPER EDITION",
+    "authors": "Mel Odom",
+    "year": 1998,
+    "correct_authors": "Var Ious",
+    "correct_year": "1998",
+    "tokens": 87,
+    "similarity": 0.25
+  },
+  {
+    "title": "L'Alchimiste",
+    "authors": "Mel Odom",
+    "year": 1988,
+    "correct_authors": "Paulo Coelho",
+    "correct_year": "2002",
+    "tokens": 70,
+    "similarity": 0.3
+  },
+  {
+    "title": "No Death, No Fear: Comforting Wisdom for Life",
+    "authors": "Thich Nhat Hanh",
+    "year": 2002,
+    "correct_authors": "Nhat Hanh",
+    "correct_year": "2002",
+    "tokens": 77,
+    "similarity": 0.75
+  },
+  {
+    "title": "In the Presence of the Enemy",
+    "authors": "Elizabeth George",
+    "year": 1996,
+    "correct_authors": "Elizabeth George",
+    "correct_year": "1996",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Tribe for Lexi",
+    "authors": "Sebastian Junger",
+    "year": 2016,
+    "correct_authors": "C. S. Adler",
+    "correct_year": "1991",
+    "tokens": 68,
+    "similarity": 0.2222222222222222
+  },
+  {
+    "title": "Stranger in the Kingdom",
+    "authors": "Howard Frank Mosher",
+    "year": 1990,
+    "correct_authors": "Howard Frank Mosher",
+    "correct_year": "1990",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Der Pyromane.",
+    "authors": "Max Frisch",
+    "year": 1958,
+    "correct_authors": "Matti Y. Joensuu",
+    "correct_year": "2003",
+    "tokens": 68,
+    "similarity": 0.3076923076923077
+  },
+  {
+    "title": "The Spirit of the Maasai Man",
+    "authors": "Saruni S. Saitoti",
+    "year": 2017,
+    "correct_authors": "Laura Berkeley",
+    "correct_year": "2000",
+    "tokens": 76,
+    "similarity": 0.1935483870967742
+  },
+  {
+    "title": "Sarah Canary",
+    "authors": "Karen Joy Fowler",
+    "year": 1991,
+    "correct_authors": "Karen Joy Fowler",
+    "correct_year": "1993",
+    "tokens": 65,
+    "similarity": 1.0
+  },
+  {
+    "title": "Devils Tower: Stories in Stone",
+    "authors": "Scott Thybony",
+    "year": 2001,
+    "correct_authors": "Mary Alice Gunderson",
+    "correct_year": "1988",
+    "tokens": 70,
+    "similarity": 0.18181818181818182
+  },
+  {
+    "title": "The Hero With a Thousand Faces",
+    "authors": "Joseph Campbell",
+    "year": 1949,
+    "correct_authors": "Joseph Campbell",
+    "correct_year": "1997",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Rebel Lions (New Directions Paperbook, 712)",
+    "authors": "Bokser, Ben",
+    "year": 2017,
+    "correct_authors": "Michael McClure",
+    "correct_year": "1991",
+    "tokens": 76,
+    "similarity": 0.23076923076923078
+  },
+  {
+    "title": "Up From Jericho Tel",
+    "authors": "E.L. Doctorow",
+    "year": 1978,
+    "correct_authors": "E.L. Konigsburg",
+    "correct_year": "1998",
+    "tokens": 70,
+    "similarity": 0.5
+  },
+  {
+    "title": "Don't Let Jerks Get the Best of You / Advice For Dealing With Difficult People",
+    "authors": "Paul Meier Robert L. Wise",
+    "year": 1993,
+    "correct_authors": "Paul, Dr. Meier",
+    "correct_year": "1993",
+    "tokens": 88,
+    "similarity": 0.5
+  },
+  {
+    "title": "The 7 Habits Of Highly Effective Teens",
+    "authors": "Sean Covey",
+    "year": 2014,
+    "correct_authors": "Sean Covey",
+    "correct_year": "1998",
+    "tokens": 72,
+    "similarity": 1.0
+  },
+  {
+    "title": "Green spirituality: Reflections on belonging to a world beyond myself",
+    "authors": "James A. Nash",
+    "year": 2009,
+    "correct_authors": "Veronica Ray",
+    "correct_year": "1992",
+    "tokens": 76,
+    "similarity": 0.24
+  },
+  {
+    "title": "Little Matchmaker (Matchmaker, Matchmaker) (Harlequin Superromance, No 764)",
+    "authors": "Bobbie Coughlin",
+    "year": 1997,
+    "correct_authors": "Muriel Jensen",
+    "correct_year": "1997",
+    "tokens": 88,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "My Antonia (Vintage Classics)",
+    "authors": "Willa Cather",
+    "year": 1918,
+    "correct_authors": "Willa Cather",
+    "correct_year": "1994",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "Pigs Don't Fly",
+    "authors": "Mary Brown",
+    "year": 1974,
+    "correct_authors": "Mary Brown",
+    "correct_year": "1994",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "Bluefeather Fellini in the Sacred Realm",
+    "authors": "Max Eberle",
+    "year": 2018,
+    "correct_authors": "Max Evans",
+    "correct_year": "1995",
+    "tokens": 73,
+    "similarity": 0.5263157894736842
+  },
+  {
+    "title": "Wildflower",
+    "authors": "Drew Barrymore",
+    "year": 2015,
+    "correct_authors": "Jill Marie Landis",
+    "correct_year": "1996",
+    "tokens": 66,
+    "similarity": 0.25806451612903225
+  },
+  {
+    "title": "Angst",
+    "authors": "Stefan Zweig",
+    "year": 1939,
+    "correct_authors": "Stefan Zweig",
+    "correct_year": "1998",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "Fred",
+    "authors": "Posy Simmonds",
+    "year": 1987,
+    "correct_authors": "Posy Simmonds",
+    "correct_year": "1987",
+    "tokens": 65,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Art of Meditation",
+    "authors": "Joel S. Goldsmith",
+    "year": 1956,
+    "correct_authors": "Joel S. Goldsmith",
+    "correct_year": "1990",
+    "tokens": 70,
+    "similarity": 1.0
+  },
+  {
+    "title": "Lotus Man",
+    "authors": "Thelma Adam",
+    "year": 2021,
+    "correct_authors": "Gildas Roberts",
+    "correct_year": "1984",
+    "tokens": 66,
+    "similarity": 0.24
+  },
+  {
+    "title": "The Beckett Trilogy",
+    "authors": "Samuel Beckett",
+    "year": 1954,
+    "correct_authors": "Samuel Beckett",
+    "correct_year": "1979",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "James Clavell: Two Complete Novels",
+    "authors": "James Clavell",
+    "year": "1984",
+    "correct_authors": "James Clavell",
+    "correct_year": "1995",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "Bar Sport",
+    "authors": "Stefano Benni",
+    "year": 1976,
+    "correct_authors": "Stefano Benni",
+    "correct_year": "1976",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "Speed Up Your Site: Web Site Optimization",
+    "authors": "Andrew B. King",
+    "year": 2003,
+    "correct_authors": "Andrew B. King",
+    "correct_year": "2003",
+    "tokens": 72,
+    "similarity": 1.0
+  },
+  {
+    "title": "Spiriti",
+    "authors": "Thomas Carlyle",
+    "year": 1839,
+    "correct_authors": "Stefano Benni",
+    "correct_year": "2002",
+    "tokens": 65,
+    "similarity": 0.14814814814814814
+  },
+  {
+    "title": "Prophecy (The Symphony of Ages)",
+    "authors": "Elizabeth Haydon",
+    "year": 2001,
+    "correct_authors": "Elizabeth Haydon",
+    "correct_year": "2000",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "Closer",
+    "authors": "Patrick Marber",
+    "year": 1997,
+    "correct_authors": "Dennis Cooper",
+    "correct_year": "1990",
+    "tokens": 65,
+    "similarity": 0.2962962962962963
+  },
+  {
+    "title": "Tokyo Sketches: Short Stories",
+    "authors": "Izzeldin Abuelaish",
+    "year": 2017,
+    "correct_authors": "Pete Hamill",
+    "correct_year": "1995",
+    "tokens": 73,
+    "similarity": 0.20689655172413793
+  },
+  {
+    "title": "The Maiden Bride",
+    "authors": "Rexanne Becnel",
+    "year": 1998,
+    "correct_authors": "Linda Needham",
+    "correct_year": "2000",
+    "tokens": 68,
+    "similarity": 0.2962962962962963
+  },
+  {
+    "title": "Earthly Possessions",
+    "authors": "Anne Tyler",
+    "year": 1977,
+    "correct_authors": "Anne Tyler",
+    "correct_year": "1986",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "Taking Care of Terrific",
+    "authors": "Lois Lowry",
+    "year": 1983,
+    "correct_authors": "Lois Lowry",
+    "correct_year": "1984",
+    "tokens": 69,
+    "similarity": 1.0
+  },
+  {
+    "title": "Royal Survivor: The Life of Charles II",
+    "authors": "Stephen Coote",
+    "year": 2008,
+    "correct_authors": "Stephen Coote",
+    "correct_year": "2000",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "Secrets of a Midnight Moon",
+    "authors": "Lorna Luffman",
+    "year": 2021,
+    "correct_authors": "Jane Bonander",
+    "correct_year": "1991",
+    "tokens": 69,
+    "similarity": 0.15384615384615385
+  },
+  {
+    "title": "Modern Coin Magic",
+    "authors": "J.B. Bobo",
+    "year": 1952,
+    "correct_authors": "J. B. Bobo",
+    "correct_year": "1982",
+    "tokens": 68,
+    "similarity": 0.9473684210526315
+  },
+  {
+    "title": "The Throat",
+    "authors": "Peter Straub",
+    "year": 1993,
+    "correct_authors": "Peter Straub",
+    "correct_year": "1993",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "Dei bambini non si sa niente (Stile libero)",
+    "authors": "Franco Arminio",
+    "year": 2017,
+    "correct_authors": "Simona Vinci",
+    "correct_year": "1997",
+    "tokens": 79,
+    "similarity": 0.3076923076923077
+  },
+  {
+    "title": "Great Short Works of Henry David Thoreau",
+    "authors": "Henry David Thoreau",
+    "year": 1982,
+    "correct_authors": "Wendell Glick",
+    "correct_year": "1993",
+    "tokens": 74,
+    "similarity": 0.25
+  },
+  {
+    "title": "Lonely Planet Belize (Lonely Planet Belize)",
+    "authors": "Mara Vorhees Lucas Vidgen",
+    "year": 2019,
+    "correct_authors": "Carolyn Miller Carlstroem",
+    "correct_year": "2002",
+    "tokens": 80,
+    "similarity": 0.12
+  },
+  {
+    "title": "The haunting of Bishop Pike;: A Christian view of The other side",
+    "authors": "Paul Tice",
+    "year": "1994",
+    "correct_authors": "Merrill Frederick Unger",
+    "correct_year": "1971",
+    "tokens": 77,
+    "similarity": 0.3125
+  },
+  {
+    "title": "O conto da ilha desconhecida (Cadernos do Pavilh\u00c3\u00a3o de Portugal, EXPO'98)",
+    "authors": "Jos\u00e9 Saramago",
+    "year": 1997,
+    "correct_authors": "Jos\u00c3\u00a9 Saramago",
+    "correct_year": "1997",
+    "tokens": 92,
+    "similarity": 0.8888888888888888
+  },
+  {
+    "title": "The Names of the Dead",
+    "authors": "Kevin Wignall",
+    "year": 2020,
+    "correct_authors": "Stewart O'Nan",
+    "correct_year": "1997",
+    "tokens": 69,
+    "similarity": 0.3076923076923077
+  },
+  {
+    "title": "Prayers and devotions from Pope John Paul II: Selected passages from his writings and speeches arranged for every day of the year",
+    "authors": "Pope John Paul II",
+    "year": 2000,
+    "correct_authors": "John Paul",
+    "correct_year": "1984",
+    "tokens": 90,
+    "similarity": 0.6923076923076923
+  },
+  {
+    "title": "Missing Beauty",
+    "authors": "Theresa Schwegel",
+    "year": 2013,
+    "correct_authors": "Teresa Carpenter",
+    "correct_year": "1989",
+    "tokens": 67,
+    "similarity": 0.625
+  },
+  {
+    "title": "Sibs",
+    "authors": "F. Paul Wilson",
+    "year": 1991,
+    "correct_authors": "F. Paul Wilson",
+    "correct_year": "1994",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "Cassell's Story of Mathematics from Counting to Complexity",
+    "authors": "Marty Lewinter Katherine Fronk",
+    "year": 2017,
+    "correct_authors": "Richard Mankiewicz",
+    "correct_year": "2000",
+    "tokens": 82,
+    "similarity": 0.25
+  },
+  {
+    "title": "Young Doctor Mason",
+    "authors": "Jean Taylor Heine",
+    "year": 1986,
+    "correct_authors": "Alex Stuart",
+    "correct_year": "1985",
+    "tokens": 67,
+    "similarity": 0.21428571428571427
+  },
+  {
+    "title": "Hedgehogs: How to Take Care of Them and Understand Them (A Complete Pet Owner's Manual)",
+    "authors": "Sharon Vanderlip",
+    "year": 1997,
+    "correct_authors": "Matthew M. Vriends",
+    "correct_year": "1995",
+    "tokens": 85,
+    "similarity": 0.29411764705882354
+  },
+  {
+    "title": "Night Hunter",
+    "authors": "Kate Brady",
+    "year": 2009,
+    "correct_authors": "Michael Reaves",
+    "correct_year": "1997",
+    "tokens": 64,
+    "similarity": 0.4166666666666667
+  },
+  {
+    "title": "Dinosaurs Galore",
+    "authors": "Giles Andreae",
+    "year": 1998,
+    "correct_authors": "Cecilia R. Telles",
+    "correct_year": "1997",
+    "tokens": 68,
+    "similarity": 0.26666666666666666
+  },
+  {
+    "title": "HOW TO START A HOMEBASED CRAFTS BUSINESS, 2nd Edition",
+    "authors": "Roberta Yowell Carol Nelson",
+    "year": 2003,
+    "correct_authors": "Kenn Oberrecht",
+    "correct_year": "1997",
+    "tokens": 86,
+    "similarity": 0.2926829268292683
+  },
+  {
+    "title": "Pilgrimage to the Mother: A Woman's Journey to the Source of the Ganges (Pathwork Mandala Ser. Vol 1)",
+    "authors": "Rama Jyoti Vernon",
+    "year": 1990,
+    "correct_authors": "Alakananda Devi",
+    "correct_year": "1999",
+    "tokens": 95,
+    "similarity": 0.25
+  },
+  {
+    "title": "Grand amour: Roman",
+    "authors": "Sylvie Testud",
+    "year": "2003",
+    "correct_authors": "Erik Orsenna",
+    "correct_year": "1993",
+    "tokens": 69,
+    "similarity": 0.24
+  },
+  {
+    "title": "The Art of Living Single",
+    "authors": "Dr. Bella DePaulo",
+    "year": 2005,
+    "correct_authors": "Michael Broder",
+    "correct_year": "1990",
+    "tokens": 71,
+    "similarity": 0.3225806451612903
+  },
+  {
+    "title": "E\u00c3?\u00c2?st\u00c3?\u00c2\u00b6rungen.",
+    "authors": "Thomas Bernhard",
+    "year": 1983,
+    "correct_authors": "Hilde Bruch",
+    "correct_year": "2000",
+    "tokens": 76,
+    "similarity": 0.38461538461538464
+  },
+  {
+    "title": "Banshees, Beasts &amp; Brides from the Sea: Irish Tales of the Supernatural",
+    "authors": "Joe Murphy",
+    "year": 2009,
+    "correct_authors": "Bob Curran",
+    "correct_year": "1996",
+    "tokens": 83,
+    "similarity": 0.4
+  },
+  {
+    "title": "Atlantis: Insights from a Lost Civilization",
+    "authors": "Shirley Andrews",
+    "year": 2002,
+    "correct_authors": "Shirley Andrews",
+    "correct_year": "1997",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Moonstone",
+    "authors": "Wilkie Collins",
+    "year": 1868,
+    "correct_authors": "Wilkie Collins",
+    "correct_year": "2002",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "Merton: A biography",
+    "authors": "Selma G. Lanes",
+    "year": 1989,
+    "correct_authors": "Monica Furlong",
+    "correct_year": "1980",
+    "tokens": 71,
+    "similarity": 0.35714285714285715
+  },
+  {
+    "title": "The Secret Life of Eva Hathaway",
+    "authors": "Liane Moriarty",
+    "year": 2022,
+    "correct_authors": "Janice Weber",
+    "correct_year": "1986",
+    "tokens": 71,
+    "similarity": 0.38461538461538464
+  },
+  {
+    "title": "Uncle Tom's Children (Perennial Library)",
+    "authors": "Richard Wright",
+    "year": 1938,
+    "correct_authors": "Richard Wright",
+    "correct_year": "1993",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "Mastering Microsoft Outlook 2000 Premium Edition",
+    "authors": "Gina Carrillo Nancy D. Lewis",
+    "year": 1999,
+    "correct_authors": "Gini Courter",
+    "correct_year": "2000",
+    "tokens": 80,
+    "similarity": 0.35
+  },
+  {
+    "title": "Yes",
+    "authors": "Daniel Bryan Craig Tello",
+    "year": 2015,
+    "correct_authors": "Ann Kiemel Anderson",
+    "correct_year": "1978",
+    "tokens": 68,
+    "similarity": 0.46511627906976744
+  },
+  {
+    "title": "What the Bible Is All About: Niv",
+    "authors": "Henrietta C. Mears",
+    "year": 1980,
+    "correct_authors": "Henrietta C. Mears",
+    "correct_year": "1993",
+    "tokens": 76,
+    "similarity": 1.0
+  },
+  {
+    "title": "Bearing Secrets (Wil Hardesty Novels (Paperback))",
+    "authors": "Richard Barre",
+    "year": 1999,
+    "correct_authors": "Richard Barre",
+    "correct_year": "1998",
+    "tokens": 76,
+    "similarity": 1.0
+  },
+  {
+    "title": "Curtain",
+    "authors": "Agatha Christie",
+    "year": 1975,
+    "correct_authors": "Agatha Christie",
+    "correct_year": "1993",
+    "tokens": 64,
+    "similarity": 1.0
+  },
+  {
+    "title": "Botchan",
+    "authors": "Natsume Soseki",
+    "year": 1906,
+    "correct_authors": "Natsume Soseki",
+    "correct_year": "1992",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Mentor",
+    "authors": "Tess Gerritsen",
+    "year": 1999,
+    "correct_authors": "R. A. Forster",
+    "correct_year": "1998",
+    "tokens": 67,
+    "similarity": 0.2222222222222222
+  },
+  {
+    "title": "Red Box",
+    "authors": "Rex Stout",
+    "year": 1937,
+    "correct_authors": "Rex Stout",
+    "correct_year": "1976",
+    "tokens": 65,
+    "similarity": 1.0
+  },
+  {
+    "title": "Zu sehen.",
+    "authors": "Peter Handke",
+    "year": 2010,
+    "correct_authors": "Lily Brett",
+    "correct_year": "2003",
+    "tokens": 66,
+    "similarity": 0.18181818181818182
+  },
+  {
+    "title": "Der Vogelgarten.",
+    "authors": "Raphael Seligmann",
+    "year": 1997,
+    "correct_authors": "Julia Wallis Martin",
+    "correct_year": "2002",
+    "tokens": 71,
+    "similarity": 0.2777777777777778
+  },
+  {
+    "title": "Daughters of Copper Woman",
+    "authors": "Anne Cameron",
+    "year": 1981,
+    "correct_authors": "Anne Cameron",
+    "correct_year": "1981",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Awakening and Other Stories (Modern Library Classics)",
+    "authors": "Kate Chopin",
+    "year": 2000,
+    "correct_authors": "Kate Chopin",
+    "correct_year": "2000",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "Thoughts Without a Thinker: Psychotherapy from a Buddhist Perspective",
+    "authors": "Mark Epstein",
+    "year": 1995,
+    "correct_authors": "Mark Epstein",
+    "correct_year": "1995",
+    "tokens": 74,
+    "similarity": 1.0
+  },
+  {
+    "title": "De (ver)wording van de jongere D\u00c3\u00bcrer",
+    "authors": "Kurt L\u00c3\u00b6cher",
+    "year": "2003",
+    "correct_authors": "L\u00c3\u00a9on de Winter",
+    "correct_year": "1978",
+    "tokens": 80,
+    "similarity": 0.2962962962962963
+  },
+  {
+    "title": "Harlequin Omibus: Betty Neels: Sister Peters in Amsterdam; Nurse in Holland; Blow Hot, Blow Cold",
+    "authors": "Betty Neels",
+    "year": 2003,
+    "correct_authors": "Betty Neels",
+    "correct_year": "1989",
+    "tokens": 88,
+    "similarity": 1.0
+  },
+  {
+    "title": "Secrets Of The Outback (Harlequin Superromance, No. 1039)",
+    "authors": "Barbara Hannay",
+    "year": 2001,
+    "correct_authors": "Margaret Way",
+    "correct_year": "2002",
+    "tokens": 83,
+    "similarity": 0.5384615384615384
+  },
+  {
+    "title": "KAFFIR BOY IN AMERICA",
+    "authors": "Mark Mathabane",
+    "year": 1989,
+    "correct_authors": "Mark Mathabane",
+    "correct_year": "1990",
+    "tokens": 72,
+    "similarity": 1.0
+  },
+  {
+    "title": "and the shadows took him : A Novel",
+    "authors": "Daniel Pembrey",
+    "year": 2021,
+    "correct_authors": "Daniel Chacon",
+    "correct_year": "2004",
+    "tokens": 71,
+    "similarity": 0.5185185185185185
+  },
+  {
+    "title": "Beyond the Mountain (A Graywolf Discovery)",
+    "authors": "Steve House Reinhold Messner",
+    "year": 2009,
+    "correct_authors": "Elizabeth Arthur",
+    "correct_year": "1993",
+    "tokens": 78,
+    "similarity": 0.18181818181818182
+  },
+  {
+    "title": "The New York Times 60 Minute Gourmet",
+    "authors": "Pierre Franey",
+    "year": 1979,
+    "correct_authors": "Pierre Franey",
+    "correct_year": "1979",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "A Year Near Proxima Centauri",
+    "authors": "S. R. Green Jacob A. Henry",
+    "year": 2021,
+    "correct_authors": "Michael Martin",
+    "correct_year": "1992",
+    "tokens": 79,
+    "similarity": 0.2
+  },
+  {
+    "title": "Kid's Statehood Quarters Collectors Folder: With Information on Collecting Other Cool Coins",
+    "authors": "Warman's Warman's",
+    "year": 2002,
+    "correct_authors": "Whitman",
+    "correct_year": "2000",
+    "tokens": 86,
+    "similarity": 0.3333333333333333
+  },
+  {
+    "title": "The Girls' Guide to Hunting and Fishing",
+    "authors": "Melissa Bank",
+    "year": 1999,
+    "correct_authors": "Melissa Bank",
+    "correct_year": "1999",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "\\Until You Are Dead\\\" : Steven Truscott's Long Ride into History\"",
+    "authors": "Julian Sher",
+    "year": 2001,
+    "correct_authors": "JULIAN SHER",
+    "correct_year": "2002",
+    "tokens": 80,
+    "similarity": 1.0
+  },
+  {
+    "title": "HTML for the World Wide Web: Visual Quickstart Guide (2nd Edition)",
+    "authors": "Elizabeth Castro",
+    "year": 2002,
+    "correct_authors": "Elizabeth Castro",
+    "correct_year": "1997",
+    "tokens": 78,
+    "similarity": 1.0
+  },
+  {
+    "title": "Built from Scratch: How a Couple of Regular Guys Grew the Home Depot from Nothing to $30 Billion",
+    "authors": "Bernie Marcus, Arthur Blank",
+    "year": "1999",
+    "correct_authors": "Bernie Marcus",
+    "correct_year": "1999",
+    "tokens": 87,
+    "similarity": 0.65
+  },
+  {
+    "title": "Holzwege Zur Wirklichkeit: Meine Derzeitige Weltsicht",
+    "authors": "Karl Popper",
+    "year": 1986,
+    "correct_authors": "Manfred Rommel",
+    "correct_year": "2001",
+    "tokens": 81,
+    "similarity": 0.32
+  },
+  {
+    "title": "El Socio",
+    "authors": "Jenaro Prieto",
+    "year": 1928,
+    "correct_authors": "John Grisham",
+    "correct_year": "1997",
+    "tokens": 68,
+    "similarity": 0.4
+  },
+  {
+    "title": "Murder at Witches Bluff: A Novel of Suspense and Magick",
+    "authors": "Silver RavenWolf",
+    "year": 2007,
+    "correct_authors": "Silver Ravenwolf",
+    "correct_year": "2000",
+    "tokens": 77,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Lipstick Circus",
+    "authors": "Karen L. Hudson",
+    "year": "2003",
+    "correct_authors": "Brian McCabe",
+    "correct_year": "1990",
+    "tokens": 68,
+    "similarity": 0.2222222222222222
+  },
+  {
+    "title": "The Unofficial Guide to Beating Stress",
+    "authors": "Ann Silvers",
+    "year": 2017,
+    "correct_authors": "Pat  Goudey",
+    "correct_year": "2000",
+    "tokens": 71,
+    "similarity": 0.2727272727272727
+  },
+  {
+    "title": "The Lost Letters of Pergamum: A Story from the New Testament World",
+    "authors": "Bruce W. Longenecker",
+    "year": 2003,
+    "correct_authors": "Bruce W. Longenecker",
+    "correct_year": "2002",
+    "tokens": 82,
+    "similarity": 1.0
+  },
+  {
+    "title": "Her Final Fling : Single In South Beach (Temptation)",
+    "authors": "Nancy Warren",
+    "year": 2007,
+    "correct_authors": "Joanne Rock",
+    "correct_year": "2004",
+    "tokens": 77,
+    "similarity": 0.2608695652173913
+  },
+  {
+    "title": "Die Kinder von Eden.",
+    "authors": "Ken Follett",
+    "year": 1996,
+    "correct_authors": "Ken Follett",
+    "correct_year": "2001",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Enlightenment Without God (Mandukya Upanishad)",
+    "authors": "Mandukya Upanishad",
+    "year": "6th century BCE",
+    "correct_authors": "Swami Rama",
+    "correct_year": "1982",
+    "tokens": 83,
+    "similarity": 0.14285714285714285
+  },
+  {
+    "title": "Torments",
+    "authors": "Vladimir Nabokov",
+    "year": 1972,
+    "correct_authors": "Lisa Cantrell",
+    "correct_year": "1990",
+    "tokens": 68,
+    "similarity": 0.20689655172413793
+  },
+  {
+    "title": "Exploring Electricity: Techniques and Troubleshooting",
+    "authors": "Homer L. Davidson",
+    "year": 1995,
+    "correct_authors": "Michael Merchant",
+    "correct_year": "1995",
+    "tokens": 74,
+    "similarity": 0.36363636363636365
+  },
+  {
+    "title": "A WOLF IN DEATH'S CLOTHING : A WOLF IN DEATH'S CLOTHING",
+    "authors": "Angela Roquet",
+    "year": 2021,
+    "correct_authors": "Elizabeth Quinn",
+    "correct_year": "1995",
+    "tokens": 85,
+    "similarity": 0.35714285714285715
+  },
+  {
+    "title": "Man Of Iron (Harlequin Romance 2924)",
+    "authors": "Margaret Way",
+    "year": 1987,
+    "correct_authors": "Catherine George",
+    "correct_year": "1988",
+    "tokens": 75,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "Return Engagement (Settling Accounts Trilogy, Book 1)",
+    "authors": "Harry Turtledove",
+    "year": 2004,
+    "correct_authors": "Harry Turtledove",
+    "correct_year": "2004",
+    "tokens": 78,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Chisellers",
+    "authors": "Brendan O'Carroll",
+    "year": 2018,
+    "correct_authors": "Brendan O'Carroll",
+    "correct_year": "2000",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Seventh Mesa: A Novel",
+    "authors": "Lynda A. S\u00e1nchez",
+    "year": 2002,
+    "correct_authors": "Mary Summer Rain",
+    "correct_year": "1994",
+    "tokens": 72,
+    "similarity": 0.25
+  },
+  {
+    "title": "The Mystery of the Wrong Dog (Three Cousins Detective Club)",
+    "authors": "Elspeth Campbell Murphy",
+    "year": 1999,
+    "correct_authors": "Elspeth Campbell Murphy",
+    "correct_year": "1994",
+    "tokens": 77,
+    "similarity": 1.0
+  },
+  {
+    "title": "All Through the Night (Holiday Classics)",
+    "authors": "Mary Higgins Clark",
+    "year": 1999,
+    "correct_authors": "Mary Higgins Clark",
+    "correct_year": "1999",
+    "tokens": 71,
+    "similarity": 1.0
+  },
+  {
+    "title": "A Mystery of Venice: Farewell to the Flesh",
+    "authors": "Edward D. Hoch",
+    "year": 2009,
+    "correct_authors": "Edward Sklepowich",
+    "correct_year": "1993",
+    "tokens": 74,
+    "similarity": 0.6451612903225806
+  },
+  {
+    "title": "LEVIATHAN",
+    "authors": "Thomas Hobbes",
+    "year": 1651,
+    "correct_authors": "James Byron Huggins",
+    "correct_year": "1995",
+    "tokens": 67,
+    "similarity": 0.1875
+  },
+  {
+    "title": "A Time for Killing (Bushwhackers, No 7)",
+    "authors": "J.W. Swanson",
+    "year": 1988,
+    "correct_authors": "B. J. Lanagan",
+    "correct_year": "1999",
+    "tokens": 78,
+    "similarity": 0.4
+  },
+  {
+    "title": "The Carrier",
+    "authors": "Sophie Hannah",
+    "year": 2020,
+    "correct_authors": "Holden Scott",
+    "correct_year": "2000",
+    "tokens": 65,
+    "similarity": 0.24
+  },
+  {
+    "title": "Emergence",
+    "authors": "Steven Johnson",
+    "year": 2001,
+    "correct_authors": "David R. Palmer",
+    "correct_year": "1984",
+    "tokens": 64,
+    "similarity": 0.13793103448275862
+  },
+  {
+    "title": "Afterburn",
+    "authors": "Sylvia Day",
+    "year": 2013,
+    "correct_authors": "Colin Harrison",
+    "correct_year": "2000",
+    "tokens": 66,
+    "similarity": 0.3333333333333333
+  },
+  {
+    "title": "Feather Boy",
+    "authors": "Nicky Singer",
+    "year": 2002,
+    "correct_authors": "NICKY SINGER",
+    "correct_year": "2002",
+    "tokens": 65,
+    "similarity": 1.0
+  },
+  {
+    "title": "Make It Country",
+    "authors": "Meghan Patrick",
+    "year": 2015,
+    "correct_authors": "Family Circle",
+    "correct_year": "1989",
+    "tokens": 66,
+    "similarity": 0.2222222222222222
+  },
+  {
+    "title": "Stroke Of Midnight (Harlequin American Romance, No 571)",
+    "authors": "Laurie Paige",
+    "year": 1995,
+    "correct_authors": "Mary Higgins Clark",
+    "correct_year": "1995",
+    "tokens": 78,
+    "similarity": 0.3333333333333333
+  },
+  {
+    "title": "Genealogy: How to Find Your Roots (An Impact Book)",
+    "authors": "Shirley Hornbeck",
+    "year": 1977,
+    "correct_authors": "Henry Gilfond",
+    "correct_year": "1978",
+    "tokens": 78,
+    "similarity": 0.41379310344827586
+  },
+  {
+    "title": "More Top Secret Recipes: More Fabulous Kitchen Clones of America's Favorite Brand-Name Foods",
+    "authors": "Todd Wilbur",
+    "year": 1994,
+    "correct_authors": "Todd Wilbur",
+    "correct_year": "1994",
+    "tokens": 82,
+    "similarity": 1.0
+  },
+  {
+    "title": "The House of Janus",
+    "authors": "Barbara Pym",
+    "year": 1984,
+    "correct_authors": "Donald James",
+    "correct_year": "1992",
+    "tokens": 69,
+    "similarity": 0.2608695652173913
+  },
+  {
+    "title": "Plays: One : Christie in Love, Magnificence, the Churchill Play, Weapons of Happiness, Epsom Downs, Sore Throats (World Dramatists)",
+    "authors": "Howard Brenton",
+    "year": 1985,
+    "correct_authors": "Howard Brenton",
+    "correct_year": "1987",
+    "tokens": 99,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Missing Snowman (Storytime Christmas)",
+    "authors": "Hannah C. Hall",
+    "year": 2018,
+    "correct_authors": "Jo Albee",
+    "correct_year": "1994",
+    "tokens": 74,
+    "similarity": 0.2727272727272727
+  },
+  {
+    "title": "Krankheitspr\u00c3?\u00c2\u00a4vention durch Ern\u00c3?\u00c2\u00a4hrung.",
+    "authors": "Wolfgang Kainz",
+    "year": "2011",
+    "correct_authors": "Harald Remke",
+    "correct_year": "1998",
+    "tokens": 84,
+    "similarity": 0.15384615384615385
+  },
+  {
+    "title": "Secret Service Dad: Grooms in Uniform (Harlequin American Romance, No 947)",
+    "authors": "Linda Markowiak",
+    "year": 2002,
+    "correct_authors": "Mollie Molay",
+    "correct_year": "2002",
+    "tokens": 84,
+    "similarity": 0.4444444444444444
+  },
+  {
+    "title": "British Railways Past and Present: Wiltshire (British Railways Past and Present)",
+    "authors": "Michael A. Cobb",
+    "year": 2007,
+    "correct_authors": "Hugh Ballantine",
+    "correct_year": "2002",
+    "tokens": 82,
+    "similarity": 0.2
+  },
+  {
+    "title": "The Man Who Turned into Himself",
+    "authors": "David Ambrose",
+    "year": 1993,
+    "correct_authors": "David Ambrose",
+    "correct_year": "1994",
+    "tokens": 70,
+    "similarity": 1.0
+  },
+  {
+    "title": "Inside Australia and New Zealand",
+    "authors": "Dan White Catherine Le Nevez Charles Rawlings-Way Brett Atkinson Peter Dragicevich Miriam Raphael",
+    "year": 2019,
+    "correct_authors": "John Gunther",
+    "correct_year": "1974",
+    "tokens": 99,
+    "similarity": 0.11009174311926606
+  },
+  {
+    "title": "Manhunter (A Luke Starbuck Novel)",
+    "authors": "Matt Braun",
+    "year": 1980,
+    "correct_authors": "Matt Braun",
+    "correct_year": "2003",
+    "tokens": 72,
+    "similarity": 1.0
+  },
+  {
+    "title": "Simple Spells for Love: Ancient Practices for Emotional Fulfillment",
+    "authors": "Barrie Dolnick",
+    "year": 1999,
+    "correct_authors": "Barrie Dolnick",
+    "correct_year": "1995",
+    "tokens": 76,
+    "similarity": 1.0
+  },
+  {
+    "title": "Heart of a Warrior",
+    "authors": "Johanna Lindsey",
+    "year": 2001,
+    "correct_authors": "Johanna Lindsey",
+    "correct_year": "2001",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Water Dance",
+    "authors": "Thomas Locker",
+    "year": 1997,
+    "correct_authors": "Thomas Locker",
+    "correct_year": "1997",
+    "tokens": 64,
+    "similarity": 1.0
+  },
+  {
+    "title": "Kristy's Big Day (Baby-Sitters Club (Paperback))",
+    "authors": "Ann M. Martin",
+    "year": 1987,
+    "correct_authors": "Ann M Martin",
+    "correct_year": "1988",
+    "tokens": 78,
+    "similarity": 0.96
+  },
+  {
+    "title": "Co-Dependence",
+    "authors": "Melody Beattie",
+    "year": 1987,
+    "correct_authors": "Anne Wilson Schaef",
+    "correct_year": "1986",
+    "tokens": 70,
+    "similarity": 0.125
+  },
+  {
+    "title": "DOLPHINS (The Cousteau Society)",
+    "authors": "The Cousteau Society",
+    "year": "1984",
+    "correct_authors": "Cousteau Society",
+    "correct_year": "1992",
+    "tokens": 76,
+    "similarity": 0.8888888888888888
+  },
+  {
+    "title": "Nu couch\u00c3\u00a9",
+    "authors": "Amedeo Modigliani",
+    "year": "1917",
+    "correct_authors": "Dan Franck",
+    "correct_year": "1998",
+    "tokens": 70,
+    "similarity": 0.2222222222222222
+  },
+  {
+    "title": "Bad Things",
+    "authors": "Nancy Bush",
+    "year": 2017,
+    "correct_authors": "Tamara Thorne",
+    "correct_year": "2002",
+    "tokens": 65,
+    "similarity": 0.2608695652173913
+  },
+  {
+    "title": "A Parting Gift",
+    "authors": "C.L. Taylor",
+    "year": 2022,
+    "correct_authors": "Ben Erickson",
+    "correct_year": "2001",
+    "tokens": 68,
+    "similarity": 0.17391304347826086
+  },
+  {
+    "title": "Floating",
+    "authors": "Anne Carson",
+    "year": 2010,
+    "correct_authors": "Robin Troy",
+    "correct_year": "1998",
+    "tokens": 63,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "The Dead of the Night",
+    "authors": "John Marsden",
+    "year": 1998,
+    "correct_authors": "John Marsden",
+    "correct_year": "1995",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "La Grande Faucheuse",
+    "authors": "Jean-Antoine Watteau",
+    "year": 1717,
+    "correct_authors": "James Morrow",
+    "correct_year": "2000",
+    "tokens": 72,
+    "similarity": 0.3125
+  },
+  {
+    "title": "EGGBERT FUNNY SIDE",
+    "authors": "Michael Hacker",
+    "year": 2020,
+    "correct_authors": "F",
+    "correct_year": "1977",
+    "tokens": 68,
+    "similarity": 0.0
+  },
+  {
+    "title": "Heart of the Christos: Starseeding from the Pleiades (Mind Chronicles)",
+    "authors": "Barbara Hand Clow",
+    "year": 1996,
+    "correct_authors": "Barbara Hand Clow",
+    "correct_year": "1989",
+    "tokens": 83,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Canadian Used Car Guide 2002-2003 (Canadian Used Car Guide)",
+    "authors": "Larry J. Perry",
+    "year": 2002,
+    "correct_authors": "Daniel Heraud",
+    "correct_year": "2002",
+    "tokens": 81,
+    "similarity": 0.2962962962962963
+  },
+  {
+    "title": "Angst und Schrecken in Las Vegas.",
+    "authors": "Hunter S. Thompson",
+    "year": 1971,
+    "correct_authors": "Hunter S. Thompson",
+    "correct_year": "1998",
+    "tokens": 74,
+    "similarity": 1.0
+  },
+  {
+    "title": "Diario de Un Emigrante (Destinolibro ; v. 44)",
+    "authors": "Jos\u00e9 D\u00edaz Rojo",
+    "year": 2014,
+    "correct_authors": "Miguel Delibes",
+    "correct_year": "1997",
+    "tokens": 85,
+    "similarity": 0.14285714285714285
+  },
+  {
+    "title": "Getaway Groom (Harlequin Temptation, No 672)",
+    "authors": "Suzanne Macpherson",
+    "year": 1998,
+    "correct_authors": "Molly Liholm",
+    "correct_year": "1998",
+    "tokens": 82,
+    "similarity": 0.13333333333333333
+  },
+  {
+    "title": "Making potpourri, soaps &amp; colognes: 102 natural recipes",
+    "authors": "David A Webb",
+    "year": 1994,
+    "correct_authors": "David A Webb",
+    "correct_year": "1988",
+    "tokens": 81,
+    "similarity": 1.0
+  },
+  {
+    "title": "Stolen Ecstasy",
+    "authors": "Jocelyn Saint James",
+    "year": 1983,
+    "correct_authors": "Hannah Howell",
+    "correct_year": "1991",
+    "tokens": 69,
+    "similarity": 0.1875
+  },
+  {
+    "title": "The Rain Child : The Horse Catcher's Trilogy, Book Three (Horse Catchers Trilogy, 3)",
+    "authors": "Karen Brooks",
+    "year": 2007,
+    "correct_authors": "Amanda Cockrell",
+    "correct_year": "2001",
+    "tokens": 85,
+    "similarity": 0.2222222222222222
+  },
+  {
+    "title": "Hip Hop Til You Drop : HIP HOP TIL YOU DROP (FullHouseStephanie)",
+    "authors": "FullHouseStephanie",
+    "year": "Not available",
+    "correct_authors": "Devra Newberger Speregen",
+    "correct_year": "1994",
+    "tokens": 85,
+    "similarity": 0.19047619047619047
+  },
+  {
+    "title": "Sailor Moon, tome 11 : La Princesse Kaguya",
+    "authors": "Naoko Takeuchi",
+    "year": 1995,
+    "correct_authors": "Naoko Takeuchi",
+    "correct_year": "1997",
+    "tokens": 77,
+    "similarity": 1.0
+  },
+  {
+    "title": "Waterfall",
+    "authors": "Lynn Nottage",
+    "year": 2001,
+    "correct_authors": "Carla Neggers",
+    "correct_year": "2000",
+    "tokens": 66,
+    "similarity": 0.4
+  },
+  {
+    "title": "Waterland / Last Orders",
+    "authors": "Lynn Nottage",
+    "year": 2001,
+    "correct_authors": "Swift Graham",
+    "correct_year": "1999",
+    "tokens": 102,
+    "similarity": 0.16666666666666666
+  },
+  {
+    "title": "Mrs. Brisby's Remembering Game (Little Golden Sniff It Book)",
+    "authors": "Catherine Hapka",
+    "year": 2020,
+    "correct_authors": "E. K. Davis",
+    "correct_year": "1982",
+    "tokens": 81,
+    "similarity": 0.3076923076923077
+  },
+  {
+    "title": "Guardian Angel",
+    "authors": "Julie Garwood",
+    "year": 1990,
+    "correct_authors": "Sara Paretsky",
+    "correct_year": "1996",
+    "tokens": 66,
+    "similarity": 0.15384615384615385
+  },
+  {
+    "title": "Sharks (Zoobooks Series)",
+    "authors": "John Bonnett Wexo",
+    "year": 1990,
+    "correct_authors": "John Bonnett Wexo",
+    "correct_year": "1998",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "Collected Poems, 1909-1962",
+    "authors": "T.S. Eliot",
+    "year": 1963,
+    "correct_authors": "T. S. Eliot",
+    "correct_year": "1963",
+    "tokens": 76,
+    "similarity": 0.9523809523809523
+  },
+  {
+    "title": "Dark Mirror, Dark Dreams",
+    "authors": "Jean Marie Ward",
+    "year": 2007,
+    "correct_authors": "Sharon Green",
+    "correct_year": "1994",
+    "tokens": 68,
+    "similarity": 0.2962962962962963
+  },
+  {
+    "title": "Hardball: How Politics Is Played--Told by One Who Knows the Game",
+    "authors": "Chris Matthews",
+    "year": 1988,
+    "correct_authors": "Christopher Matthews",
+    "correct_year": "1988",
+    "tokens": 79,
+    "similarity": 0.8235294117647058
+  },
+  {
+    "title": "Adventures of Huckleberry Finn: A Case Study in Critical Controversy (Case Studies in Contemporary Criticism)",
+    "authors": "Mark Twain",
+    "year": 1884,
+    "correct_authors": "Mark Twain",
+    "correct_year": "1995",
+    "tokens": 86,
+    "similarity": 1.0
+  },
+  {
+    "title": "Mother of Toads (The Unexpurgated Clark Ashton Smith Ser.)",
+    "authors": "Clark Ashton Smith",
+    "year": 1975,
+    "correct_authors": "Clark A. Smith",
+    "correct_year": "1987",
+    "tokens": 78,
+    "similarity": 0.8125
+  },
+  {
+    "title": "Gracious Lady (Harlequin Presents, No 1657)",
+    "authors": "Anne Hampson",
+    "year": 1994,
+    "correct_authors": "Carole Mortimer",
+    "correct_year": "1994",
+    "tokens": 77,
+    "similarity": 0.37037037037037035
+  },
+  {
+    "title": "By Dawn's Early Light: A Novel",
+    "authors": "Philip K. Dick",
+    "year": 1974,
+    "correct_authors": "Philip Shelby",
+    "correct_year": "2002",
+    "tokens": 72,
+    "similarity": 0.5185185185185185
+  },
+  {
+    "title": "Scarlet Woman (Arabesque S.)",
+    "authors": "Linda Turner",
+    "year": 1993,
+    "correct_authors": "Gwynne Forster",
+    "correct_year": "2001",
+    "tokens": 72,
+    "similarity": 0.3076923076923077
+  },
+  {
+    "title": "HELTER SKELTER",
+    "authors": "Vincent Bugliosi Curt Gentry",
+    "year": 1974,
+    "correct_authors": "VINCENT BUGLIOSI",
+    "correct_year": "1982",
+    "tokens": 76,
+    "similarity": 0.7272727272727273
+  },
+  {
+    "title": "No plantar\u00c3\u00a9 cap arbre (Biblioteca m\u00c3\u00adnima)",
+    "authors": "Pere Calders",
+    "year": 1953,
+    "correct_authors": "Quim Monz\u00c3\u00b3",
+    "correct_year": "1994",
+    "tokens": 82,
+    "similarity": 0.08695652173913043
+  },
+  {
+    "title": "Dragon Drums",
+    "authors": "Pere Calders",
+    "year": 1979,
+    "correct_authors": "Anne Mccaffrey",
+    "correct_year": "1982",
+    "tokens": 67,
+    "similarity": 0.38461538461538464
+  },
+  {
+    "title": "The Clematis Tree",
+    "authors": "Anita Amirrezvani Anita Amirrezvani",
+    "year": [
+      2001,
+      2002
+    ],
+    "correct_authors": "Ann Widdecombe",
+    "correct_year": "2001",
+    "tokens": 82,
+    "similarity": 0.24489795918367346
+  },
+  {
+    "title": "Cracking the Show",
+    "authors": "Seth Godin",
+    "year": 1995,
+    "correct_authors": "Thomas Boswell",
+    "correct_year": "1995",
+    "tokens": 68,
+    "similarity": 0.25
+  },
+  {
+    "title": "The Incredible Worlds Of Wally Mcdoogle: #19 My Life As A Cowboy Cowpie",
+    "authors": "Bill Myers",
+    "year": 1997,
+    "correct_authors": "Bill Myers",
+    "correct_year": "2001",
+    "tokens": 81,
+    "similarity": 1.0
+  },
+  {
+    "title": "Approaching Zanzibar",
+    "authors": "Roosevelt, Jake",
+    "year": 2014,
+    "correct_authors": "Tina Howe",
+    "correct_year": "1990",
+    "tokens": 71,
+    "similarity": 0.25
+  },
+  {
+    "title": "Full Tilt (Janet Evanovich's Full Series)",
+    "authors": "Janet Evanovich",
+    "year": 2003,
+    "correct_authors": "Janet Evanovich",
+    "correct_year": "2003",
+    "tokens": 76,
+    "similarity": 1.0
+  },
+  {
+    "title": "Better Man",
+    "authors": "Robbie Williams Guy Chambers",
+    "year": 2000,
+    "correct_authors": "Anita Nair",
+    "correct_year": "1999",
+    "tokens": 69,
+    "similarity": 0.15789473684210525
+  },
+  {
+    "title": "The Broken Biscuit",
+    "authors": "Amanda Jennings",
+    "year": 2019,
+    "correct_authors": "John Cowell",
+    "correct_year": "2001",
+    "tokens": 68,
+    "similarity": 0.15384615384615385
+  },
+  {
+    "title": "Thoreau: A Book of Quotations (Dover Thrift Editions)",
+    "authors": "Henry David Thoreau",
+    "year": 1995,
+    "correct_authors": "Henry David Thoreau",
+    "correct_year": "2000",
+    "tokens": 83,
+    "similarity": 1.0
+  },
+  {
+    "title": "Een opvoeder ([Grote Marnixpocket] ; gmp 267)",
+    "authors": "Karel Eykman",
+    "year": 1974,
+    "correct_authors": "Johny van Tegenbos",
+    "correct_year": "1984",
+    "tokens": 84,
+    "similarity": 0.2
+  },
+  {
+    "title": "The Poisoned Chalice : A Crowner John Mystery (Crowner John Mystery)",
+    "authors": "Bernard Knight",
+    "year": 2001,
+    "correct_authors": "Bernard Knight",
+    "correct_year": "2005",
+    "tokens": 81,
+    "similarity": 1.0
+  },
+  {
+    "title": "Wake Up, Darlin' Corey",
+    "authors": "Ralph Rinzler Jerry Garcia",
+    "year": 1965,
+    "correct_authors": "M.K. Wren",
+    "correct_year": "1990",
+    "tokens": 76,
+    "similarity": 0.17142857142857143
+  },
+  {
+    "title": "Sawyer's Crossing",
+    "authors": "David Baldacci",
+    "year": 2021,
+    "correct_authors": "Sharon Snow Sirois",
+    "correct_year": "2001",
+    "tokens": 66,
+    "similarity": 0.1875
+  },
+  {
+    "title": "The Tomb of God",
+    "authors": "Adrian Gilbert Brian L. Snell",
+    "year": 1991,
+    "correct_authors": "Richard Andrews",
+    "correct_year": "1997",
+    "tokens": 74,
+    "similarity": 0.2727272727272727
+  },
+  {
+    "title": "Basic Writings of Nietzsche (Modern Library Classics)",
+    "authors": "Friedrich Nietzsche",
+    "year": 2000,
+    "correct_authors": "Friedrich Nietzsche",
+    "correct_year": "2000",
+    "tokens": 75,
+    "similarity": 1.0
+  },
+  {
+    "title": "Soils and foundations",
+    "authors": "Cheng Liu Jack B. Evett",
+    "year": "2012",
+    "correct_authors": "Cheng Liu",
+    "correct_year": "1987",
+    "tokens": 74,
+    "similarity": 0.5625
+  },
+  {
+    "title": "Happy Birthday Baby Bop!",
+    "authors": "Mary Ann Dudko Margie Larsen",
+    "year": 1998,
+    "correct_authors": "Linda Cress Dowdy",
+    "correct_year": "1995",
+    "tokens": 76,
+    "similarity": 0.17777777777777778
+  },
+  {
+    "title": "You Can't Go Home Again",
+    "authors": "Thomas Wolfe",
+    "year": 1940,
+    "correct_authors": "Thomas Wolfe",
+    "correct_year": "1973",
+    "tokens": 68,
+    "similarity": 1.0
+  },
+  {
+    "title": "Truth, The",
+    "authors": "Michael Palin",
+    "year": 2012,
+    "correct_authors": "Terry Pratchett",
+    "correct_year": "2001",
+    "tokens": 65,
+    "similarity": 0.2857142857142857
+  },
+  {
+    "title": "A Tree Accurst: Bobby McMillon and Stories of Frankie Silver",
+    "authors": "Daniel W. Patterson",
+    "year": 2001,
+    "correct_authors": "Daniel W. Patterson",
+    "correct_year": "2000",
+    "tokens": 78,
+    "similarity": 1.0
+  },
+  {
+    "title": "Cam Jansen and the Mystery at the Haunted House (Puffin Chapters)",
+    "authors": "David A. Adler",
+    "year": 2004,
+    "correct_authors": "David A. Adler",
+    "correct_year": "1994",
+    "tokens": 81,
+    "similarity": 1.0
+  },
+  {
+    "title": "Schlussball",
+    "authors": "Ferdinand von Schirach",
+    "year": 2005,
+    "correct_authors": "G. Gaiser",
+    "correct_year": "1998",
+    "tokens": 70,
+    "similarity": 0.12903225806451613
+  },
+  {
+    "title": "Mommy And The Policeman Next Door (Harlequin Yours Truly, No 049)",
+    "authors": "Judy Christenberry",
+    "year": 1989,
+    "correct_authors": "Marie Ferrarella",
+    "correct_year": "1997",
+    "tokens": 84,
+    "similarity": 0.35294117647058826
+  },
+  {
+    "title": "The New York Public Library Guide to Reading Groups",
+    "authors": "The New York Public Library",
+    "year": "2006",
+    "correct_authors": "Rollene Saal",
+    "correct_year": "1995",
+    "tokens": 74,
+    "similarity": 0.2564102564102564
+  },
+  {
+    "title": "High Stakes",
+    "authors": "Dick Francis",
+    "year": 1975,
+    "correct_authors": "Justine Dare",
+    "correct_year": "2001",
+    "tokens": 65,
+    "similarity": 0.08333333333333333
+  },
+  {
+    "title": "Marooned With A Millionaire",
+    "authors": "Catherine George",
+    "year": 2008,
+    "correct_authors": "Kristi Gold",
+    "correct_year": "2003",
+    "tokens": 70,
+    "similarity": 0.37037037037037035
+  },
+  {
+    "title": "A Poisoned Chalice",
+    "authors": "Michael J. Milstead",
+    "year": 2018,
+    "correct_authors": "Jeffrey Freedman",
+    "correct_year": "2002",
+    "tokens": 70,
+    "similarity": 0.17142857142857143
+  },
+  {
+    "title": "God's Pocket",
+    "authors": "Pete Dexter",
+    "year": 1983,
+    "correct_authors": "Pete Dexter",
+    "correct_year": "1989",
+    "tokens": 66,
+    "similarity": 1.0
+  },
+  {
+    "title": "The Verdant Passage (Dark Sun World)",
+    "authors": "Troy Denning",
+    "year": 1991,
+    "correct_authors": "Troy Denning",
+    "correct_year": "1991",
+    "tokens": 73,
+    "similarity": 1.0
+  },
+  {
+    "title": "Juniper",
+    "authors": "Brad Woodberg Rob Cameron",
+    "year": 1999,
+    "correct_authors": "MONICA FURLONG",
+    "correct_year": "1992",
+    "tokens": 69,
+    "similarity": 0.15384615384615385
+  },
+  {
+    "title": "In Search of Columbus",
+    "authors": "Felipe Fernandez-Armesto",
+    "year": 1991,
+    "correct_authors": "Hunter Davies",
+    "correct_year": "1992",
+    "tokens": 70,
+    "similarity": 0.32432432432432434
+  },
+  {
+    "title": "Pooh's Bedtime Book",
+    "authors": "A. A. Milne",
+    "year": 1988,
+    "correct_authors": "A. A. Milne",
+    "correct_year": "1997",
+    "tokens": 72,
+    "similarity": 1.0
+  },
+  {
+    "title": "Discovering Your Past Lives",
+    "authors": "Gloria Chadwick",
+    "year": 1996,
+    "correct_authors": "Gloria  Chadwick",
+    "correct_year": "1988",
+    "tokens": 70,
+    "similarity": 0.967741935483871
+  },
+  {
+    "title": "The Gulf",
+    "authors": "Jack E. Davis",
+    "year": 2017,
+    "correct_authors": "David Poyer",
+    "correct_year": "1999",
+    "tokens": 66,
+    "similarity": 0.3333333333333333
+  },
+  {
+    "title": "Il Tevere d'oro: Romanzo (Strutture)",
+    "authors": "Lorenzo Candiani",
+    "year": 2013,
+    "correct_authors": "Berenice",
+    "correct_year": "1994",
+    "tokens": 80,
+    "similarity": 0.3333333333333333
+  },
+  {
+    "title": "Tales of Power",
+    "authors": "Carlos Castaneda",
+    "year": 1974,
+    "correct_authors": "Carlos Castaneda",
+    "correct_year": "1991",
+    "tokens": 67,
+    "similarity": 1.0
+  },
+  {
+    "title": "Scales of Passion",
+    "authors": "Gordon Monson",
+    "year": 2005,
+    "correct_authors": "Shirley Eskapa",
+    "correct_year": "1990",
+    "tokens": 68,
+    "similarity": 0.07407407407407407
+  },
+  {
+    "title": "Faire l'amour",
+    "authors": "Jean-Philippe Toussaint",
+    "year": 2002,
+    "correct_authors": "Jean-Philippe Toussaint",
+    "correct_year": "2002",
+    "tokens": 72,
+    "similarity": 1.0
+  },
+  {
+    "title": "Seven Great Inventions",
+    "authors": "John R. McNeill",
+    "year": 2019,
+    "correct_authors": "Celia King",
+    "correct_year": "1995",
+    "tokens": 69,
+    "similarity": 0.24
+  },
+  {
+    "title": "Unix System Architecture",
+    "authors": "Lance J. Hoffman",
+    "year": 1986,
+    "correct_authors": "Prabhat K. Andleigh",
+    "correct_year": "1989",
+    "tokens": 68,
+    "similarity": 0.34285714285714286
+  },
+  {
+    "title": "Joshua, Son of None",
+    "authors": "Nancy Freedman",
+    "year": 1973,
+    "correct_authors": "Nancy Freedman",
+    "correct_year": "1995",
+    "tokens": 69,
+    "similarity": 1.0
+  }
+]
