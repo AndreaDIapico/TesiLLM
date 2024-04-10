@@ -119,7 +119,7 @@ def serpapi_search_and_parse(query_term):
     params = {
       "engine": "google_scholar",
       "q": query_term,
-      "api_key": "be93071379f8f5f37f4506fd14981b53b8d07207ee41da9510167548e79161c5"
+      "api_key": "AUTH_KEY"
     }
     
     search = GoogleSearch(params)
